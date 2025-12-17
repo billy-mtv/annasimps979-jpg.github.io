@@ -1,6 +1,4 @@
----
-title: Investigation
----
+# Investigation
 
 Players in a new area will usually be ignorant of the traits of enemies, the local weather patterns, the Lore of the world an/or an area, or other information pertinent to their objectives.  This knowledge is often quite scarce, and therefore valuable enough that it shouldn't just be handed to them for free.  It might be worked for, traded for, bartered for, or be handed out as a quest reward, but at bare minimum players should be able to access information via something called an investigation roll.  When players are attempting to gather scarce information, they should pick the attribute that is most relevant to the manner in which they are gathering information and then roll a 1d10.  If they roll equal to or below their current value in that attribute, with a 10 in a given attribute counting as a 9, they will be able to ask 2d6 questions about the fiction for the GM to answer.  If they roll above their target number, they do not "fail" but instead are able to ask 1d6 questions.  The main types of investigation rolls are as follows:
 *  Tracking.  When attempting to find information by examining physical evidence or searching a specific area, the player should roll equal to or under their character's Body.
