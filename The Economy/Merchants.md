@@ -1,6 +1,4 @@
----
-title: Merchants
----
+# Merchants
 
 While in a settlement, player characters will often need to replenish their items and upgrade their equipment, which is how they can visit merchants.  The only hard and fast rule for how GMs should dispense items to players is that they should not deviate by more than one order of magnitude from their set cr costs.  However, the relative scarcity and distribution of items can go a long way towards characterizing the world that the players inhabit.  The following section will outline how to create merchants to add to the game world that players can buy goods and services from, including extensive guides for generating new ones at the appropriate tier for the players.  GMs are not obligated to follow any of the guidelines here, but making bespoke item arrays for each storekeeper can be very time-consuming, and so it is recommended that they make extensive use of the framework in this section as they create their worlds.
 
