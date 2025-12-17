@@ -1,6 +1,4 @@
----
-title: Tier 7 Enemies
----
+# Tier 7 Enemies
 
 ## Orks
 Ork raiding parties are feared by rural folk, and rightfully so.  When they strike, they strike not just to steal food but also to remind their victims of their presence by inspiring terror, softening them for the next raid.
