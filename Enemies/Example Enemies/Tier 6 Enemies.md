@@ -1,6 +1,4 @@
----
-title: Tier 6 Enemies
----
+# Tier 6 Enemies
 
 ## Chaos Elementals
 The Elemental Boundary of the cosmos will sometimes leak into the Material Plane.  When it does, aspects of the elements will be "embodied" in elementals.  Elementals are hostile, and quite insane.
