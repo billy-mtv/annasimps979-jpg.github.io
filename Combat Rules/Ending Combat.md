@@ -1,6 +1,4 @@
----
-title: Ending Combat
----
+# Ending Combat
 
 A battle is over when one of the two opposing sides has no active characters remaining on the field.
 If the players have all been downed or killed, the party will lose something important before they come to.  For example, a group of robbers will steal all of their cr, a group of wolves might eat all of their supplies, and a monster might kidnap  them and drag them into their lair.
