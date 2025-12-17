@@ -1,6 +1,4 @@
----
-title: Anima
----
+# Anima
 
 In Last Odyssey, the player characters are imbued with the power of magic.  Run-of-the-mill abilities are powered by Mana, but the most potent form of magic is instead powered by Anima, which is the magical power inherent in the will of all conscious beings.  In order to summon their eidolon and to use certain abilities, character's must spend Anima.  Anima finds its expression through the actions of the PCs and their eidolons, and in the existence of Villains and Monsters.  Anima is not good or bad, but simply powerful.  There is no way to destroy Anima without also destroying consciousness itself.
 
