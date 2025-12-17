@@ -1,6 +1,4 @@
----
-title: Skill Challenges
----
+# Skill Challenges
 
 Sometimes, players will attempt to solve problems in free play by leaning on the innate skills of their player characters rather than on their own creativity or knowledge of the game world.  When this happens, the GM should give them the opportunity to initiate a _Skill Challenge._  During a Skill Challenge, the player first declares what they intend for their character to accomplish, and then how they intend to achieve it.  The GM then determines which of the player character's three attributes, Body, Spirit, or Mind, best represents their capacity to perform the action at hand.  After that, the GM chooses a number called the _difficulty modifier,_ which is a number between -7 and 7 that represents how difficult it would be for this character to perform this specific action.  All difficulty modifiers are contextual not only to how difficult the action is but how difficult it would be for a given player character to perform it.  The only hard and fast rule for determining difficulty modifiers is that they should be consistent with the GM's previous rulings.  For example, if walking across a rickety bridge has a difficulty modifier of -4, then walking across another rickety bridge also has a difficulty modifier of -4 unless there are extenuating circumstances.  If the GM is uncertain what difficulty modifier to assign to a Skill Challenge, they should choose relative to the scale below:
 |Task Difficulty|Difficulty Modifier|
