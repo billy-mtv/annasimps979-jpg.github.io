@@ -1,6 +1,4 @@
----
-title: Knight
----
+# Knight
 
 The Knight's core virtue is their **Discipline.**  At character creation, they receive the following traits:
 *  Proficiency in Heavy armor.
