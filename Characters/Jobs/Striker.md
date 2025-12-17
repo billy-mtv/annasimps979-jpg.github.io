@@ -1,6 +1,4 @@
----
-title: Striker
----
+# Striker
 
 The Striker specializes in physical attacks.
 
