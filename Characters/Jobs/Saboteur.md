@@ -1,6 +1,4 @@
----
-title: Saboteur
----
+# Saboteur
 
 The Saboteur specializes in debuffs and negative status effects.
 
