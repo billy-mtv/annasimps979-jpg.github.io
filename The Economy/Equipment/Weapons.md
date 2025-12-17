@@ -1,6 +1,4 @@
----
-title: Weapons
----
+# Weapons
 
 Each character can wield a single weapon at a time during combat.  Characters can swap out their current weapon for another one they are proficient in during combat with the Swap Weapon action.  All weapons give bonuses to a character's base Physical Attack and their base Magical Attack while they are being wielded.  The values of these bonuses are determined by the weapon's Quality and Attack Type.  There are three Attack Types, Balanced, Physical, and Magical.  The corresponding attack bonuses each of them gives and the types of weapons that count as each Attack Type are as follows:
 
