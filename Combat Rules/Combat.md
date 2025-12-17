@@ -1,6 +1,4 @@
----
-title: Combat
----
+# Combat
 
 In Last Odyssey, when players engage in violence against one or more NPCs that are capable of significant violence against them, this is referred to as _combat._  When combat begins, the theater of the mind is supplanted by a more restrictive theater of battle that the characters cannot exit until they either flee the fight, defeat their opponents, or are defeated by their opponents.  The role of the theater of battle is to create a simplified representation of the actual terrain on which the characters are fighting, and thereby keep the inherent chaos in a violent encounter intelligible for all of its participants.  This has a few effects.  In Last Odyssey, combat is meant to be tactical.  Reducing the number of variables players must keep track of makes it easier to strategize, and also reduces the amount of time each player has to spend thinking about what to do on their turn.  Also, Last Odyssey, although not always cheerful or uplifting, is supposed to feel heroic.  More visceral violence also makes it harder to maintain the fiction that player characters aren't mass murderers or amoral mercenaries.  By keeping things abstract, Last Odyssey also softens the impact of individual acts of violence, which also makes those acts of violence that really matter all the more impactful.
 
