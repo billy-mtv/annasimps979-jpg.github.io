@@ -1,6 +1,4 @@
----
-title: Lore
----
+# Lore
 
 Players will naturally be ignorant of many aspects of a campaign world.  There are some aspects of a campaign world, though, whose discovery is not only salient to the campaign but also non-trivial to discover.  In Last Odyssey, these pieces of information count as Lore.  While traveling the world, players will discover facts about the world that are either secret or are forms of specialized knowledge.  This can include facts about the Antagonists, facts about the history of the world, facts about its culture and people, and specialized academic or scientific knowledge.  When players learn these facts for the first time, they should be granted 1 XP for each small piece of Lore that they learn about something, with the total amount of Lore available on a certain topic depending on how important the GM wants it to be.  Generally speaking, an adventure-level topic will grant up to 5 XP, a regional topic will grant up to 10, and a campaign-defining topic may grant 20 XP or more.  Players are also able to learn more than one Lore statement at a time, but each individual piece is worth 1 XP.  By the end of a Lore-heavy campaign, the players will have an extensive Lore bible that they can refer back to when needed.  Player characters cannot earn XP for learning the same piece of Lore more than once.
 
