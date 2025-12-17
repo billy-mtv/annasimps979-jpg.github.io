@@ -1,6 +1,4 @@
----
-title: Tier 5 Enemies
----
+# Tier 5 Enemies
 
 ## Test Subjects
 Deep within the labs of the Technomancers, strange creations grow in vats, waiting to be unleashed on the world.
