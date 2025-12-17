@@ -1,6 +1,5 @@
----
-title: Starting a Battle
----
+# Starting Battles
+
 At the beginning of every battle, note every character participating in the battle, and mark down which side they are on, the players' or their enemies'.  Neither side can move to the other side's part of the battlefield for the duration of combat.
 
 Both sides of a battle can occupy either the front row or the back row of their respective side.  At the beginning of the battle, each player chooses which row their character occupies, and the GM determines which rows their enemies and allies start on.  Enemies and allies in the front row of their respective sides may be targeted by any kind of attack or ability, and may also make any kind of attack or use any kind of ability.  Enemies and allies in the back row may not target enemies with any melee abilities, and also cannot be targeted by enemy melee abilities.
