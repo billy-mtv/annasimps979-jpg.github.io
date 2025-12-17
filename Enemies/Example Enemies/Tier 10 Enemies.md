@@ -1,6 +1,4 @@
----
-title: Tier 10 Enemies
----
+# Tier 10 Enemies
 
 ## Dragons
 The reptilian lords of the sky are extraordinarily long-lived, and guard their accumulated wealth jealously from interlopers.
