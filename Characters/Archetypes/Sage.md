@@ -1,6 +1,4 @@
----
-title: Sage
----
+# Sage
 
 The Sage's core virtue is their **Wisdom.**  At character creation, they gain the following traits:
 *  Proficiency in Cloth armor.
