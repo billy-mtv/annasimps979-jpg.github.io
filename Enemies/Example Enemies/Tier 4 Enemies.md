@@ -1,6 +1,4 @@
----
-title: Tier 4 Enemies
----
+# Tier 4 Enemies
 
 ## Gangsters
 The people who run the casinos that act as sieves for the vast wealth trafficked through Neon Station are highly unpredictable, but almost always violent.
