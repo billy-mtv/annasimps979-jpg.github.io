@@ -1,6 +1,4 @@
----
-title: Support
----
+# Support
 
 Supports specialize in buffs, Shells, and beneficial status effects.
 
