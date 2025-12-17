@@ -1,6 +1,4 @@
----
-title: Boreal
----
+# Boreal
 
 Mountainous regions during spring and autumn and milder regions during the winter season both exhibit weather patterns consistent with the Boreal climate.  This climate pattern can also represent the transition zone between temperate and polar regions.
 
