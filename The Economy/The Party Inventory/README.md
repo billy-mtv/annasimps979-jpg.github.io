@@ -1,6 +1,4 @@
----
-title: The Party Inventory
----
+# The Party Inventory
 
 Carry weight and capacity are represented in Last Odyssey by the Item Rating system.  In addition to its effects and base cost, each item in the party inventory has an Item Rating that is an estimate of how much space it takes up during travel.  The Carrying Capacity of each character is the maximum sum total rating of the items that they can carry at once.  Each character's Carrying Capacity is equal to 5 times their Body attribute plus 10.  Unless otherwise specified, all battle items have an Item Rating of 1.  Travel items can have ratings of anywhere from 1-10, weapons have a rating of 5, armor has a rating of 10, and each accessory has a rating of 2.  However, your equipped weapon, armor, and accessories do not count towards your carrying capacity, only extra equipment that you carry on your person.
 
