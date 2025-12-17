@@ -1,6 +1,4 @@
----
-title: Towns
----
+# Towns
 
 Population: 1,000-10,000 people.  
 
