@@ -1,6 +1,4 @@
----
-title: Travel Services
----
+# Travel Services
 
 The world of Last Odyssey is vast and dangerous, and there is often demand among its denizens for safer forms of travel than risking a journey on foot.  Merchants and suppliers for important settlements will travel together in _caravans,_ which will sometimes be willing to hire the player characters on as protection.  People with money and means will often make use of _transit services,_ which will protect their passengers from danger and greatly speed up travel in exchange for a fixed sum of money per ride.  GMs who want to further fill out their overworld should connect certain nodes together by these additional forms of travel to determine when players are able to make use of them.
 
