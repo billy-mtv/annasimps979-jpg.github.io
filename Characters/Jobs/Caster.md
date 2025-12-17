@@ -1,6 +1,4 @@
----
-title: Caster
----
+# Caster
 
 Casters specialize in magical attacks.
 
