@@ -1,6 +1,4 @@
----
-title: Antagonists
----
+# Antagonists
 
 Heroes aren't the only characters capable of using Anima.  Some of the enemies that the players face are more powerful than ordinary opponents, and can use Anima to break the normal rules of gameplay.  In Last Odyssey, these enemies are referred to as Antagonists.  There are two major types of Antagonists:
 *  _Villains_ are driven by their ego to accrue political and social power.  A Villain's defining feature is their _Ambition,_ which is a single goal towards which all of their power is focused.
