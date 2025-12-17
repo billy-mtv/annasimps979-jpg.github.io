@@ -1,6 +1,4 @@
----
-title: Armor
----
+# Armor
 
 A character's equipped armor set provides a bonus to their Magical Defense and a bonus to their Physical Defense.  Characters may only wear one set of armor at a time, and cannot switch what armor set they are wearing during combat.  The rules for armor upgrades are identical to the rules for weapon upgrades, except that armor sets do not receive the same kinds of upgrades as weapons.  Unlike weapons, there are only three varieties of armor, and they also determine the bonuses that characters receive to their statistics.  These are Cloth armor, Light armor, and Heavy armor, and the resulting bonuses are as follows:
 
