@@ -1,6 +1,4 @@
----
-title: Encounter Creation
----
+# Encounter Creation
 
 In Last Odyssey, a baseline enemy encounter that is challenging but beatable for a party of four of a given tier consists of three to five Normal enemies, about the same number as there are player characters.  Elite tier enemies are worth five times as much XP, but in battle they are equivalent to about three Normal tier enemies.  The GM does not have to throw encounters at the players that are precisely of their tier.  Most player characters will be equipped to handle enemies of power equal to plus or minus two tiers.  Any higher and they will be numerically outmatched, and any lower and the encounter will be trivial.
 
