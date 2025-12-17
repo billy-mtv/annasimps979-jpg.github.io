@@ -1,6 +1,4 @@
----
-title: Settlements
----
+# Settlements
 
 All stories, at their core, are about people, and the stories you tell in Last Odyssey are no different.  For safety and because we are social animals, human beings will almost always be found together in settlements.  In Last Odyssey, a settlement is also a term that refers to a node or closely linked group of nodes where players can rest from traveling, buy goods and services, find information, and interact with NPCs who will advance the plot.  While in a settlement, players have the chance for both free play and structured investigation.  The following section presents tools for creating those aspects of settlements that players will find the most useful, namely resting accommodations and the gathering information, as well as a guide to creating settlements that closely fit the type of pattern that best facilitates the feeling of the Last Odyssey setting.
 
