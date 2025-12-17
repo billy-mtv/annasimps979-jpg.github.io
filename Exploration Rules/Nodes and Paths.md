@@ -1,6 +1,4 @@
----
-title: Nodes and Paths
----
+# Nodes and Paths
 
 There are two basic, interrelated components that make up the overworld: _nodes,_ which represent the places that players will be traveling to, and _paths._  For every location that is a significant distance away from any other location on the map such that players will have to expend travel resources in order to get there, a new node should be placed.  A good rule of thumb is that if players would have to use the travel round rules to get to a new place, then a new node should be made to represent it.
 
