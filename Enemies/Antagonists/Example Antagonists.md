@@ -1,6 +1,4 @@
----
-title: Example Antagonists
----
+# Example Antagonists
 
 Entire adventures or even campaigns in Last Odyssey will often revolve around a handful of Antagonists.  Here are a few examples that are ready-made for the GM to use in their game.
 
