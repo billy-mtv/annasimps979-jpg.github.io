@@ -1,6 +1,4 @@
----
-title: Buffs and Debuffs
----
+# Buffs and Debuffs
 
 Some abilities modify the statistics of their target.  Abilities that increase a target's statistics are called buffs, while abilities that decrease their statistics are called debuffs.  When you use a buff or debuff on a character, it does not increase or reduce the statistic directly.  Instead, it moves that statistic up and down something called the Bonus Tracker.  By default, the bonus to each of a character's statistics is +0.  A single level of buff applied to that statistic gives it a bonus of +1 for the duration of the battle.  Another level raises this bonus to +3, and the final level raises it to +7.  Subsequent buffs do nothing.  Likewise, a single level of a debuff on a statistic imposes a penalty of -1, a second level imposes a penalty of -3, and a third will impose a penalty of -7.  Further debuffs do nothing.  In addition, buffs and debuffs are capable of cancelling each other out.  One level of buff will cancel out one level of debuff, and vice versa.
 
