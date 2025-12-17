@@ -1,6 +1,4 @@
----
-title: Travel Items
----
+# Travel Items
 
 Some items that players can purchase do not have utility in battle but instead during the travel round.  These are available at merchants in addition to combat items and equipment.  The most basic of these are _Supplies,_ which represent the various kinds of objects a player character might need while on the road.  A character may expend 1-3 units of Supplies at any time to create a new object in their inventory that is useful on the road, such as a torch, a lantern, a length of rope, or a set of climbing gear.  This piece of gear will stay in their inventory and occupy an amount of Carrying Capacity equal to the amount of Supplies expended, and will last for about as long as it would in real life.  For example, a torch might burn out after a night of use, a lantern after several nights, and climbing gear will stay in a player character's inventory until they take a bad fall or remove it.  If they do not have any Supplies, then they have run out of inventory.  If Supplies are for sale, they will cost 1 cr per unit.  Each unit of Supplies or item equivalent to a unit of Supplies takes up 1 Carrying Capacity in the party inventory.  When the party is out of Supplies, they also cannot create any more utility items in the manner described in this paragraph.  The amount of Supplies that an item requires will depend on its size and rarity:
 *  Small items, such as flint, tinder, or kindling, cost 0 Supplies.
