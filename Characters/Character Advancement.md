@@ -1,6 +1,4 @@
----
-title: Character Advancement
----
+# Character Advancement
 
 Over time, characters in Last Odyssey will earn experience points, or XP for short.  The pool of XP that a character has earned can be spent on making them stronger by increasing their attributes and unlocking new abilities.  In Last Odyssey, a character's level of advancement in relation to other characters is quantified by its tier.  Characters of a given tier can spend XP on four distinct improvements to their character: unlocking a new job or unlocking a talent for one they already have, taking what's known as a flex power, adding 1 to one of their attributes, and advancing 3 Ranks in a job they are currently able to occupy.  The last two of these can be done twice per tier, while the first two can only be done once.
 
