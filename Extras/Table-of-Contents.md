@@ -9,9 +9,9 @@
   - [Advice for Facilitators](Beginner's-Guide/Advice-for-Facilitators.md)
   - [Key Terms](Extras/Key-Terms.md)
 -  **Characters**
-  -  [Attributes and Statistics](Characters/Attributes-and-Statistics.md)
-  -  [Character Creation](Characters/Character-Creation.md)
-  -  [Archetypes](Characters/Archetypes/README.md)
+  - [Attributes and Statistics](Characters/Attributes-and-Statistics.md)
+  - [Character Creation](Characters/Character-Creation.md)
+  - [Archetypes](Characters/Archetypes/README.md)
     - [Artificer](Characters/Archetypes/Artificer.md)
     - [Commander](Characters/Archetypes/Commander.md)
     - [Dancer](Characters/Archetypes/Dancer.md)
