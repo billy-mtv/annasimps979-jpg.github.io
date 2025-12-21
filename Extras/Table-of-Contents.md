@@ -30,74 +30,74 @@
     - [Support](Characters/Jobs/Support.md)
   -  [Character Advancement](Characters/Character-Advancement.md)
   -  [Eidolons](Characters/Eidolons.md)
-- **Combat Rules**
-  - Starting Battles
-  - The Combat Round
-  - Attacking and Defending
-  - Elemental Types
-  - Shells
-  - Buffs and Debuffs
-  - Status Effects
-  - Ending Combat
-  - Death and Injury
-- **Enemies**
-  - Encounter Creation
-  - Enemy Creation
-  - Antagonists
-    - Monsters
-    - Villains
-    - Example Antagonists
-  - Example Enemies
-    - Tier 1
-    - Tier 2
-    - Tier 3
-    - Tier 4
-    - Tier 5
-    - Tier 6
-    - Tier 7
-    - Tier 8
-    - Tier 9
-    - Tier 10
-- **Exploration Rules**
-  - Nodes and Paths
-  - The Travel Round
-  - Weather and Climate
-    - Coastal
-    - Temperate
-    - Boreal
-    - Desert
-    - Tropical
-    - Polar
-    - Climate Modifiers
-  - Hazards and Encounters
-- **Free Play**
-  - Resting
-  - Skill Challenges
-  - Investigation
-  - Abilities Outside of Combat
-  - Anima
-  - True Death
-  - Earning XP
-  - Lore
-  - Puzzles
-  - Quests
+- [**Combat Rules**](Combat-Rules/Combat.md)
+  - [Starting Battles](Combat-Rules/Starting-Battles.md)
+  - [The Combat Round](Combat-Rules/The-Combat-Round.md)
+  - [Attacking and Defending](Combat-Rules/Attacking-and-Defending.md)
+  - [Elemental Types](Combat-Rules/Elemental-Types.md)
+  - [Shells](Combat-Rules/Shells.md)
+  - [Buffs and Debuffs](Combat-Rules/Buffs-and-Debuffs.md)
+  - [Status Effects](Combat-Rules/Starting-Battles.md)
+  - [Ending Combat](Combat-Rules/Ending-Combat.md)
+  - [Death and Injury](Combat-Rules/Death-and-Injury.md)
+- [**Enemies**](Enemies/README.md)
+  - [Encounter Creation](Enemies/Encounter-Creation.md)
+  - [Enemy Creation](GM-Resources/Enemy-Creation.md)
+  - [Antagonists](Enemies/Antagonists/README.md)
+    - [Monsters](Enemies/Antagonists/Monsters.md)
+    - [Villains](Enemies/Antagonists/Villains.md)
+    - [Example Antagonists](Enemies/Antagonists/Example-Antagonists.md)
+  - [Example Enemies](Enemies/Example-Enemies/README.md)
+    - [Tier 1](Enemies/Example-Enemies/Tier-1-Enemies.md)
+    - [Tier 2](Enemies/Example-Enemies/Tier-2-Enemies.md)
+    - [Tier 3](Enemies/Example-Enemies/Tier-3-Enemies.md)
+    - [Tier 4](Enemies/Example-Enemies/Tier-4-Enemies.md)
+    - [Tier 5](Enemies/Example-Enemies/Tier-5-Enemies.md)
+    - [Tier 6](Enemies/Example-Enemies/Tier-6-Enemies.md)
+    - [Tier 7](Enemies/Example-Enemies/Tier-7-Enemies.md)
+    - [Tier 8](Enemies/Example-Enemies/Tier-8-Enemies.md)
+    - [Tier 9](Enemies/Example-Enemies/Tier-9-Enemies.md)
+    - [Tier 10](Enemies/Example-Enemies/Tier-10-Enemies.md)
+- [**Exploration Rules**](Exploration-Rules/README.md)
+  - [Nodes and Paths](Exploration-Rules/Nodes-and-Paths.md)
+  - [The Travel Round](Exploration-Rules/The-Travel-Round.md)
+  - [Weather and Climate](Exploration-Rules/Weather-and-Climate/README.md)
+    - [Coastal](Exploration-Rules/Weather-and-Climate/Coastal.md)
+    - [Temperate](Exploration-Rules/Weather-and-Climate/Temperate.md)
+    - [Boreal](Exploration-Rules/Weather-and-Climate/Boreal.md)
+    - [Desert](Exploration-Rules/Weather-and-Climate/Desert.md)
+    - [Tropical](Exploration-Rules/Weather-and-Climate/Tropical.md)
+    - [Polar](Exploration-Rules/Weather-and-Climate/Polar.md)
+    - [Climate Modifiers](Exploration-Rules/Weather-and-Climate/Climate-Modifiers.md)
+  - [Hazards and Encounters](Exploration-Rules/Hazards-and-Encounters.md)
+- [**Free Play**](Free-Play/README.md)
+  - [Resting](Free-Play/Resting.md)
+  - [Skill Challenges](Free-Play/Skill-Challenges.md)
+  - [Investigation](Free-Play/Investigation.md)
+  - [Abilities Outside of Combat](Free-Play/Abilities-Outside-of-Combat.md)
+  - [Anima](Free-Play/Anima.md)
+  - [True Death](Free-Play/True-Death.md)
+  - [Earning XP](Free-Play/Earning-XP.md)
+  - [Lore](Free-Play/Lore.md)
+  - [Puzzles](Free-Play/Puzzles.md)
+  - [Quests](Free-Play/Quests.md)
 - **GM Resources**
-  - Campaigns
-  - Dungeons
-  - Worldbuilding
-  - Settlements
-    - Villages
-    - Towns
-    - Cities
-    - Metropoli
-    - Landmarks
-- **The Economy**
-  - Equipment
-    - Weapons
-    - Armor
-    - Accessories
-  - The Party Inventory
-    - Battle Items
-    - Travel Items
-  - Followers
-  - Merchants
+  - [Campaigns](GM-Resources/Campaigns.md)
+  - [Dungeons](GM-Resources/Dungeons.md)
+  - [Worldbuilding](GM-Resources/Worldbuilding.md)
+  - [Settlements](GM-Resources/Settlements/README.md)
+    - [Villages](GM-Resources/Settlements/Villages.md)
+    - [Towns](GM-Resources/Settlements/Towns.md)
+    - [Cities](GM-Resources/Settlements/Cities.md)
+    - [Metropoli](GM-Resources/Settlements/Metropoli.md)
+    - [Landmarks](GM-Resources/Settlements/Landmarks.md)
+- [**The Economy**](The-Economy/README.md)
+  - [Equipment](The-Economy/Equipment/README.md)
+    - [Weapons](The-Economy/Equipment/Weapons.md)
+    - [Armor](The-Economy/Equipment/Armor.md)
+    - [Accessories](The-Economy/Equipment/Accessories.md)
+  - [The Party Inventory](The-Economy/The-Party-Inventory/README.md)
+    - [Battle Items](The-Economy/The-Party-Inventory/Battle-Items.md)
+    - [Travel Items](The-Economy/The-Party-Inventory/Travel-Items.md)
+  - [Followers](The-Economy/Followers.md)
+  - [Merchants](The-Economy/Merchants.md)
