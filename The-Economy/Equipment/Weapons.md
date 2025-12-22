@@ -93,6 +93,7 @@ Unique:
 ## Weapon Generation
 
 To generate a new random weapon, first choose the type and the Quality.  Then, roll on the table below until you have generated a number of upgrades whose total UV add up to the possible UV of the weapon.  If you roll a Variable upgrade, give the weapon the UV 1 version.  If you roll an upgrade that would put the total Upgrade Value of the weapon above its maximum, reroll.
+
 |Result|Upgrade|
 |:-|:-|
 |1|Keen|
