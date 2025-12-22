@@ -30,9 +30,9 @@ Forging bonds between players.  It's not just combat where player characters are
 
 * [**Beginner's Guide:**](Beginner's-Guide/README.md) For people new to FRP and people new to Last Odyssey.
 
-* [**Key Terms:**](Extras/Key-Terms.md) Some words you might need to know.
+* [**Key Terms:**](Extras/Key-Terms.html) Some words you might need to know.
 
-* [**Table of Contents:**](Extras/Table-of-Contents.md) All sections in order of necessity and complexity.
+* [**Table of Contents:**](Extras/Table-of-Contents.html) All sections in order of necessity and complexity.
 
 ## Acknowledgements
 
