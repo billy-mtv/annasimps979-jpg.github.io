@@ -37,7 +37,7 @@
   - [Elemental Types](https://annasimps979-jpg.github.io/Combat-Rules/Elemental-Types.html)
   - [Shells](https://annasimps979-jpg.github.io/Combat-Rules/Shells.html)
   - [Buffs and Debuffs](https://annasimps979-jpg.github.io/Combat-Rules/Buffs-and-Debuffs.html)
-  - [Status Effects](https://annasimps979-jpg.github.io/Combat-Rules/Starting-Battles.html)
+  - [Status Effects](https://annasimps979-jpg.github.io/Combat-Rules/Status-Effects.html)
   - [Ending Combat](https://annasimps979-jpg.github.io/Combat-Rules/Ending-Combat.html)
   - [Death and Injury](https://annasimps979-jpg.github.io/Combat-Rules/Death-and-Injury.html)
 - [**Enemies**](https://annasimps979-jpg.github.io/Enemies/)
