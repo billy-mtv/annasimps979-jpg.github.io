@@ -53,6 +53,7 @@ In addition to their base effects, some items have special effects called enhanc
 
 ## Battle Item Generation
 At times, there is a need to quickly create new items.  If the GM needs to reward the players or their enemies with a new battle item and doesn't have anything on hand, they can follow a relatively simple process to create a new one.  First, roll a d20 and consult the table below:  
+
 |Result|Effect|
 |:-|:-|
 |1|Restore HP|
@@ -79,6 +80,7 @@ At times, there is a need to quickly create new items.  If the GM needs to rewar
 The result that matches the number you rolled on the die is the effect of the item in question.  If the item's effect is leveled, determine the item Quality.  Usually, Mundane items are appropriate for characters of levels 1-4, Rare items are for characters of levels 5-7, and Expert items are appropriate for characters of levels 8-10, but the margin is thin enough that you can get away with going one tier lower or higher.
 
 After you've rolled for the item effect, roll a 1d10.  If the result is a 7 or above, the item does not have any enhancements.  If the result is 1-6, the enhancement is shown on the table below:
+
 |Result|Enhancement|
 |:-|:-|
 |1|All|
