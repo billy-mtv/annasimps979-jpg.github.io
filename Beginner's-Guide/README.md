@@ -7,4 +7,4 @@ Last Odyssey is an FRP, or Fantasy Role Play, game.  If you've never played an F
 *  [Getting Started:](https://annasimps979-jpg.github.io/Beginner's-Guide/Getting-Started.md) Advice for setting up new games.
 *  [Advice for Players:](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-Players.md) How to be a good player while at the table.
 *  [Advice for GMs:](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-GMs.md) How to run Last Odyssey so it meets its full potential.
-*  [Advice for Facilitators:](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-Facilitators.md) Everything that goes into keeping a game running.
+*  [Advice for Facilitators:](https://annasimps979-jpg.github.io/Beginner's-Guide/Advice-for-Facilitators.html) Everything that goes into keeping a game running.
