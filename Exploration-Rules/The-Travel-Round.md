@@ -3,6 +3,7 @@
 Each day of travel along a path is represented by something called the _travel round._  To fully traverse a path, players must complete the full number of travel rounds involved as determined by the GM.  Each travel round represents approximately one day of travel, and is divided into three phases: the Navigation Phase, the Encounter Phase, and the Camping Phase.
 
 The _Navigation Phase_ of travel is when players choose what direction along the path to follow, and whether or not they are able to remain on course.  First, the GM should make a roll on the appropriate weather table to determine the day's weather.  See the Weather and Climate section for what effects this could have on a travel round.  Second, one of the players should make a _navigation roll_ in order to determine whether or not their group successfully continues in the right direction along their journey.  To do so, the player should first note what the navigation difficulty of the path is.  Then, they should subtract any relevant modifiers from this number, such as from maps, a Guide, or from backtracking.  If the resulting number is zero or below, the navigation phase ends and the group moves on to the encounter phase.  If the resulting number is nonzero, the player should then roll a 1d10.  If the result is greater than the number they derived from the navigation difficulty, the players proceed to the encounter phase without further incident.  If this is not the case, roll a 1d6 and consult the table below to see what occurs instead.  Once you have done so, proceed to the Encounter Phase.
+
 |Result|Setback|
 |:-|:-|
 |1-2|Frustrated.  The player characters waste a day trying to figure out where they are.  They spend an extra travel round without getting any closer to their destination.|
@@ -18,6 +19,7 @@ The next phase of the travel round is the _Encounter Phase._  If the one of the 
 To make an encounter roll, first take the navigation difficulty, divide by two, round down, and subtract it from 10.  Then, add the danger rating to 0.  Record both numbers, and roll a 1d10.  If the result of the roll is greater than the first number, the characters will encounter a natural hazard that impedes their progress.  If the result of the roll is less than or equal to the second number, the players will be forced to engage in combat with a group of enemies.  See the Hazards and Encounters section for more details on how to deal with these situations.
 
 If the players do not encounter a hazard or a group of enemies, they will instead have a _benign encounter._  A benign encounter is an encounter that is beneficial instead of challenging.  This is a good chance to give your players space to roleplay in a low stress environment, or, if they prefer, to simply breathe a sigh of relief that their travel round did not end in violence.  The GM is encouraged to come up with their own possibilities for benign encounters, but if they don't have one on hand then they should roll a 1d6 and consult the table below to see what the players encounter.
+
 |Result|Encounter|
 |:-|:-|
 |1-3|Nothing eventful happens.|
