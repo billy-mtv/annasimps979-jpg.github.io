@@ -5,6 +5,7 @@ Mountainous regions during spring and autumn and milder regions during the winte
 Example Natural Hazards: a frozen trail, a rickety bridge, a dangerously steep incline.
 
 Weather Table:
+
 |Result|Weather|
 |:-|:-|
 |1|Sunny|
