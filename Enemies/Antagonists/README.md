@@ -13,3 +13,7 @@ During combat, Antagonists are capable of taking extra actions at the beginning 
 *  Dismiss Eidolon.  If a player character's Eidolon is on the battlefield, the Antagonist may spend 1 Anima to immediately cause the Eidolon to disappear.  If a player character's Eidolon is dismissed in this manner, they cannot summon it again until the end of the next paradigm phase.
 
 In addition to the paradigm actions listed above, each Form of an Antagonist is capable of using a number of Job- or Class-specific Eidolon capstone abilities as paradigm actions equal to their tier divided by 3 rounded down.  Using one of these abilities costs 1 Anima, but does not cost any action points.  The abilities that count as valid paradigm actions are Dragonslayer, Apocalypse, Second Chance, Mirror Shield, Comeback, Vortex, Wild Hunt, Assassinate, Target Acquired, Ascension, Tango, Divine Intervention, Rout, Charge!, and Spin the Revolver.  The GM can also invent their own if they wish, or use any of the unique paradigm actions from the Example Antagonists section.
+
+* [Monsters](https://annasimps979-jpg.github.io/Enemies/Antagonists/Monsters.html)
+* [Villains](https://annasimps979-jpg.github.io/Enemies/Antagonists/Villains.html)
+* [Example Antagonists](https://annasimps979-jpg.github.io/Enemies/Antagonists/Example-Antagonists.html)
