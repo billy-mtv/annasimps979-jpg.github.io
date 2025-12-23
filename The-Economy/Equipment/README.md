@@ -6,7 +6,11 @@ The potency of a piece of equipment is determined by its Quality.  There are fou
 
 Roughly speaking, Mundane equipment is meant to be used by characters of levels 1-4, Rare equipment is meant to be used by characters of levels 4-6, Expert equipment is meant to be used by characters of levels 7-9, and Unique equipment should be acquired by characters of levels 9-10.  The exception to this rule is accessories, which do not have UV numbers but instead each possess a single upgrade that either counts as Partial or Total.  Accessories with Partial upgrades give bonuses to a character's Evasion or Resistance, while accessories with Total upgrades do not.
 
-The Quality and number of upgrades on a piece of equipment determine the base cost to purchase them from a vendor, with the exception of Unique weapons, which are only available as rewards for adventuring.  The formulae for calculating base cost for different pieces of equipment are as follows:
+There are three kinds of equipment that characters can wear: weapons, armor, and accessories.  The Quality and number of upgrades on a piece of equipment determine the base cost to purchase them from a vendor, with the exception of Unique weapons, which are only available as rewards for adventuring.  The formulae for calculating base cost for different pieces of equipment are as follows:
 *  Weapons: Mundane weapons cost 100 cr, Rare weapons cost 1,000 cr, and Expert weapons cost 10,000 cr.  Each UV 1 upgrade multiplies the cost of a weapon by 2, each UV 2 upgrade multiplies the cost of a weapon by 4, and each UV 3 upgrade multiplies the cost of a weapon by 8.
 *  Armor: Mundane armor costs 500 cr, Rare armor costs 2,500 cr, and Expert armor costs 12,500 cr.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
 * Accessories: The base cost of an accessory is 750 cr.  A Partial Upgrade multiplies the base cost of an accessory by 2, while a Total Upgrade multiplies it by 4.
+
+* [Weapons](https://annasimps979-jpg.github.io/The-Economy/Equipment/Weapons.html)
+* [Armor](https://annasimps979-jpg.github.io/The-Economy/Equipment/Armor.html)
+* [Accessores](https://annasimps979-jpg.github.io/The-Economy/Equipment/Accessories.html)
