@@ -11,3 +11,8 @@ Each enemy on the battlefield has the same set of combat statistics that player 
 While enemies in combat are mostly the same as player characters, there are a few notable differences.  First, enemies begin with a Shell of their elemental type in addition to their HP, and this Shell can be colorless if the enemy's elemental type is also colorless.  Enemies also count as their elemental type for the purpose of calculating the damage they receive.  Finally, each enemy has a creature type, which is a single word that describes what kind of being it is.  In the base game, there are ten creature types: Human, Construct, Fairy, Animal, Demon, Angel, Elemental, Undead, Dragon, and Horror.
 
 An enemy's description in the Monster Manual will list their Tier, their creature type, their elemental type, and whether they are Normal, Elite, or an Antagonist for the purposes of XP calculation.  It will look like this: (XP Type Tier, Creature Type, Elemental Type).
+
+* [Encounter Creation](https://annasimps979-jpg.github.io/Enemies/Encounter-Creation.html)
+* [Enemy Creation](https://annasimps979-jpg.github.io/GM-Resources/Enemy-Creation.html)
+* [Antagonists](https://annasimps979-jpg.github.io/Enemies/Antagonists/)
+* [Example Enemies](https://annasimps979-jpg.github.io/Enemies/Example-Enemies/)
