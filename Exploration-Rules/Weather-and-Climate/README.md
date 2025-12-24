@@ -24,13 +24,13 @@ _Storms_ are special types of weather that last for multiple days if triggered. 
 |Sandstorm|During a Sandstorm, enemies during enemy encounters will gain a surprise round unless the Scout action was used the day before.  At least two characters should take the Shelter action during the camping phase, or else characters will be unable to use the Cook, Recover, or Mend actions.  No matter what, they are also unable to use the Scout and Watch actions during the camping phase.  The navigation difficulty of a path counts as 3 greater than normal during a Sandstorm.|
 
 GMs are encouraged to build their own weather tables for different areas out of the weather effects described above.  This section contains some example climate types that are ready to use in your campaign:
-*  [Coastal:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Coastal.html) Mild and warm.
-*  [Temperate:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Temperate.html) Cool and wet.
-*  [Boreal:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Boreal.html) Cold and wet.
-*  [Tropical:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Tropical.html) Hot and wet.
-*  [Desert:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Desert.html) Hot and dry.
-*  [Polar:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Polar.html) Cold and dry.
-*  [Climate Modifiers:](https://annasimps979-jpg.github.io/Exploration-Rules/Weather-and-Climate/Climate-Modifiers.html) Extra effects for more fantastical weather types.
+*  [Coastal:](Coastal) Mild and warm.
+*  [Temperate:](Temperate) Cool and wet.
+*  [Boreal:](Boreal) Cold and wet.
+*  [Tropical:](Tropical) Hot and wet.
+*  [Desert:](Desert) Hot and dry.
+*  [Polar:](Polar) Cold and dry.
+*  [Climate Modifiers:](Climate-Modifiers) Extra effects for more fantastical weather types.
 
 While players are not traveling, the weather does not have any mechanical effects.  However, to add flavor, GMs may choose to roll on the weather table every 24 in-game hours to determine the weather that day.  This can add to the character of a settlement, although GMs are not obligated to abide by the area's weather table given that the negative consequences of weather are meant to be due to long-term rather than short-term exposure.
 
