@@ -13,7 +13,7 @@ The opportunity to work for a wage will usually present itself to players who ar
 *  Criminal labor, including trafficking and stealing, will net the players 2d8 cr per day and may require a successful Skill Challenge to avoid facing consequences.
 
 This section outlines the goods and services that players will need during your Last Odyssey campaign.
-* [Equipment](https://annasimps979-jpg.github.io/The-Economy/Equipment/)
-* [The Party Inventory](https://annasimps979-jpg.github.io/The-Economy/The-Party-Inventory/)
-* [Followers](https://annasimps979-jpg.github.io/The-Economy/Followers.html)
-* [Merchants](https://annasimps979-jpg.github.io/The-Economy/Merchants.html)
+* [Equipment](Equipment/)
+* [The Party Inventory](The-Party-Inventory/)
+* [Followers](Followers)
+* [Merchants](Merchants)
