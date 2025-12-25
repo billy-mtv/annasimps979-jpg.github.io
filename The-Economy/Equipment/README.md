@@ -11,6 +11,6 @@ There are three kinds of equipment that characters can wear: weapons, armor, and
 *  Armor: Mundane armor costs 500 cr, Rare armor costs 2,500 cr, and Expert armor costs 12,500 cr.  Each UV 1 upgrade multiplies the cost of an armor set by 2, each UV 2 upgrade multiplies the cost of an armor set by 4, and each UV 3 upgrade multiplies the cost of an armor set by 8.
 * Accessories: The base cost of an accessory is 750 cr.  A Partial Upgrade multiplies the base cost of an accessory by 2, while a Total Upgrade multiplies it by 4.
 
-* [Weapons](https://annasimps979-jpg.github.io/The-Economy/Equipment/Weapons.html)
-* [Armor](https://annasimps979-jpg.github.io/The-Economy/Equipment/Armor.html)
-* [Accessores](https://annasimps979-jpg.github.io/The-Economy/Equipment/Accessories.html)
+* [Weapons](Weapons)
+* [Armor](Armor)
+* [Accessores](Accessories)
