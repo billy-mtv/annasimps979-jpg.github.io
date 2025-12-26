@@ -7,7 +7,7 @@ While they are a Striker, characters gain the following bonuses to their statist
 *  Their Evasion is increased by an amount equal to their Mind.
 *  Their Physical Defense is increased by an amount equal to their Spirit.
 
-Abilities by Rank:
+## Abilities by Rank
 
 **Rank 1:** Strike. Melee. Cost: 3 MP, 1 AP.  Make a colorless physical attack that deals 1.5x damage on a hit in addition to other modifiers.
 
