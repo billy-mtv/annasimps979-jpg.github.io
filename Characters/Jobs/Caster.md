@@ -8,7 +8,7 @@ While they are a Caster, characters gain the following bonuses to their statisti
 *  Their Magical Attack is increased by an amount equal to their Mind.
 *  Their Magical Defense is increased by an amount equal to their Spirit.
 
-Abilities by Rank:
+## Abilities by Rank
 
 **Rank 1:** Magic Missile. Ranged. Cost: 3 MP, 1 AP.  Make a colorless magical attack against a single target.
 
