@@ -7,7 +7,7 @@ While they are Saboteurs, characters gain the following bonuses to their statist
 *  Their Physical Attack is increased by an amount equal to their Mind.
 *  Their Evasion is increased by an amount equal to their Spirit.
 
-Abilities by Rank:
+## Abilities by Rank
 
 **Rank 1:** Debuff. Ranged. Cost: 3 MP, 1 AP.  Move an enemy down one level on the Bonus Tracker for the statistic that your archetype debuffs.
 
