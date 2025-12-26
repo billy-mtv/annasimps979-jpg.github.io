@@ -8,7 +8,7 @@ The Artificer's core virtue is their **Knowledge.**  At character creation, they
 *  As a Support, their buff abilities will affect Magical Accuracy.
 *  As a Saboteur, their debuff abilities will affect Resistance.
 
-Advancements by Rank:
+## Advancements by Rank
 
 **Rank 1:** Scan. Ranged. Cost: 2 MP, 1 AP.  Select an enemy.  You immediately learn its current HP, MP, Shell, and elemental type.  Subsequent uses of this ability on the same enemy will allow you to learn the same information, or allow you to learn the value of one of its statistics, its item table, or reveal one of its abilities.
 
