@@ -84,7 +84,17 @@
 |:-|:-|:-|:-|
 |Attack|Melee|1 AP|The eidolon makes a colorless physical attack against a single target.|
 |Full Restore|Self|1 Anima, 1 AP|The eidolon removes all status effects from itself and immediately restores itself to full HP.|
+|Shield|Self|1 AP|The eidolon reflects all physical attacks used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn. Multi attacks target all enemies. Attacks that the eidolon uses against itself simply have their damage negated.|
+|Barrier|Self|1 AP|The eidolon reflects all magical attacks used against them back at the user as though the user were the target of the attack instead of the eidolon until the beginning of their next turn. Multi attacks target all enemies. Attacks that the eidolon uses against itself simply have their damage negated.|
 
 **Statistics:**
+
+|Health|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|:-|:-|:-|:-|:-|
+|25|2|3|3|7|
+
+|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|:-|:-|:-|:-|:-|
+|4|6|6|6|6|
 
 ## Character Sheet
