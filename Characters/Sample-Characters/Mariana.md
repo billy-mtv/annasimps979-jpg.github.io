@@ -12,16 +12,79 @@
 
 ## Character Info
 
+### Class Abilities
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Restore MP|Ally|5 MP, 1 AP|You restore the MP of an ally apart from yourself by an amount equal to your Magical Attack.|
+
 ### Attributes
 
 |Body|Mind|Spirit|
 |:-|:-|:-|
 |1|2|3|
 
+### Base Statistics
 
+|Health|Initiative|Mana|Carrying Capacity|Action Points|
+|:-|:-|:-|:-|:-|
+|15|6|30|15|2|
+
+|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|:-|:-|:-|:-|
+|1|3|0|2|
+
+|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|:-|:-|:-|:-|:-|
+|0|2|3|5|4|
+
+### Inventory
+
+**Equipment:** Mundane Scepter, Mundane Cloth Armor, Mystical Accessory.
+
+**Currency:** 10 cr.
 
 ## Job Info
 
+### Healer
+
+**Rank:** 1
+
+**Abilities:**
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Heal|Ally|5 MP, 1 AP|Restore an amount of HP to a single target equal to your Magical Attack.|
+
+**Statistics:**
+
+|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
+|:-|:-|:-|:-|
+|3|6|0|2|
+
+|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|:-|:-|:-|:-|:-|
+|1|2|3|5|4|
+
 ## Eidolon
+
+### Basic Info
+
+**Name:** Balor
+
+**Description:** A white dragon with feathered wings like an angel and shimmering, kaleidoscopic eyes.
+
+**Elemental Type:** Light
+
+### Combat Info
+
+**Abilities:**
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Attack|Melee|1 AP|The eidolon makes a colorless physical attack against a single target.|
+|Full Restore|Self|1 Anima, 1 AP|The eidolon removes all status effects from itself and immediately restores itself to full HP.|
+
+**Statistics:**
 
 ## Character Sheet
