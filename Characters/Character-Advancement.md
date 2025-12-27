@@ -4,7 +4,7 @@ Over time, characters in Last Odyssey will earn _<dfn id="term-experience-points
 
 The XP cost of each improvement a character buys is equal to the number of improvements they have already bought plus one multiplied by twice their current tier.  For example, at tier 1 the very first improvement a character buys will cost 2 XP, while the last one will cost 12 XP.  Characters of tier 10 can buy improvements as normal, but are maxed out at tier 10.  If a character in your campaign reaches max level, this means that it's time for the campaign to start wrapping up and/or for that character to move on and be changed out for another one.  Every time you advance in tier, you also gain access to the archetype ability or stat bonus of the corresponding rank.
 
-Every tier, each character will take each of the following advancements one single time.  Once these advancements have been taken, they must advance to the next tier to advance further.
+When a character first advances to a new tier, they also advance the rank of their archetype and gain the corresponding advancement.  While they occupy a given tier, each character will take each of the following advancements one single time.  Once these advancements have been taken, they must advance to the next tier to advance further.
 *  Advance 3 Ranks in a job.
 *  Advance 3 Ranks in a job.
 *  Advance a single attribute by 1.
@@ -38,7 +38,7 @@ During character advancement, players may purchase any of the following flex pow
 *  Flex Proficiency. Passive.  You become proficient in a type of weapon or armor you were not previously proficient in.
 
 ## Advancing Tier
-Once you have bought one of each of the six tier improvements, you are ready to increase your character's tier.  To do so, you must spend 3 Anima to either summon their eidolon in battle or spend Anima to save them from True Death.  Once this has been done, the character advances to the next tier.
+Once you have bought one of each of the six tier improvements, you are ready to increase your character's tier.  To do so, you must spend 3 Anima to either summon their eidolon in battle or spend Anima to save them from True Death.  Once this has been done, the character advances to the next tier, and automatically receives the advancement corresponding to the rank of their archetype equal to their new tier.
 
 ## Changing Aspirations and Relationships
 It is inevitable that a character's Aspirations and Relationships will change throughout the game.  When they use them to spend Anima, they will abandon or change them depending on the narrative.  In addition, whenever player determines that their character's Aspiration has changed and/or they have acquired or lost a Relationship, they have the ability to modify them at will.  They should then announce this to the group so that the other players and the GM can take proper note of the change.
