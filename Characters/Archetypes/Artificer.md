@@ -5,6 +5,7 @@ The Artificer's core virtue is their **Knowledge.**  At character creation, they
 *  Proficiency in Guns.
 *  +10 Health
 *  +10 Mana
+*  +4 Initiative
 *  As a Support, their buff abilities will affect Magical Accuracy.
 *  As a Saboteur, their debuff abilities will affect Resistance.
 
