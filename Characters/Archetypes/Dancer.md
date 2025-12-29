@@ -11,25 +11,45 @@ The Dancer's core virtue is their **Charm.**  At character creation, they gain t
 
 ## Advancements by Rank
 
-**Rank 1:** Copycat. Special. Cost: 10 MP, 1 AP.  You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Copycat|Special|10 MP, 1 AP|You may immediately use one of the abilities that one of your allies used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 2:** You gain +1 Evasion.
 
-**Rank 3:** Dancer's Mask. Passive.  Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having HP and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Dancer's Mask|Passive|N/A|Whenever you use an ability that has an elemental type, you may obtain the Masked status effect, which means you now count as having HP and Shell of that elemental type for the purpose of calculating received damage.  While you are Masked, you may use the Unmask ability, which costs 1 AP and removed the Masked status effect from you.|
 
 **Rank 4:** You gain +1 Evasion.
 
-**Rank 5:** Mimic. Special. Cost: 20 MP, 1 AP.  You may use one of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Mimic|Special|20 MP, 1 AP|You may use one of the abilities that any of your enemies have used between the end of your last turn and the beginning of your current turn, counting held turns.|
 
 **Rank 6:** You gain +1 Evasion.
 
-**Rank 7:** Costume Change. Self. Cost: 2 AP.  You may change your elemental type to an elemental type of your choosing as though you had just used Dancer's Mask.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Costume Change|Self|2 AP|You may change your elemental type to an elemental type of your choosing as though you had just used Dancer's Mask.|
 
 **Rank 8:** You gain +1 Evasion.
 
 **Rank 9:** You gain +1 Evasion.
 
-**Capstone:** Tango. Special. Cost: 1 Anima, 2 AP.  Immediately use all of the abilities that your enemies have used between the end of its last turn and the beginning of its current turn.  You may choose the targets of all of these abilities at will.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Tango|Special|1 Anima, 2 AP|Immediately use all of the abilities that your enemies have used between the end of its last turn and the beginning of its current turn.  You may choose the targets of all of these abilities at will.|
 
 ## Talents
 
