@@ -11,25 +11,45 @@ The Commander's core virtue is their **Leadership.**  At character creation, the
 
 ## Advancements by Rank
 
-**Rank 1:** Orders. Ally. Cost: 1 AP.  Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Orders|Ally|1 AP|Grant a free AP to a single ally that can then use it to act during your turn.  You may only use this ability once per round.|
 
 **Rank 2:** You gain +1 Resistance.
 
-**Rank 3:** Standard Bearer. Passive.  Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the initiative order that does not count on the bonus tracker.  If you are downed, this effect does not apply.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Standard Bearer|Passive|N/A|Your allies gain a +1 bonus to their Status, Physical, and Magical Accuracies when they act after you in the initiative order that does not count on the bonus tracker.  If you are downed, this effect does not apply.|
 
 **Rank 4:** You gain +1 Resistance.
 
-**Rank 5:** Courier Network. Passive.  You may use Orders twice per round.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Courier Network|Passive|N/A|You may use Orders twice per round.|
 
 **Rank 6:** You gain +1 Resistance.
 
-**Rank 7:** Chain of Command. Passive.  Designate one of your party members as your Lieutenant.  While you are downed in battle, that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Chain of Command|Passive|N/A|Designate one of your party members as your Lieutenant.  While you are downed in battle, that ally gains the Standard Bearer ability instead of you.  If they are also downed, this effect does not apply.|
 
 **Rank 8:** You gain +1 Resistance.
 
 **Rank 9:** You gain +1 Resistance.
 
-**Capstone:** Charge! Special. Cost: 1 Anima, 2 AP.  Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its statistics for theirs.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Charge!|Special|1 Anima, 2 AP|Your eidolon grants all of your allies an immediate full turn.  When they use abilities during this turn, they can substitute its statistics for theirs.|
 
 ## Talents
 
