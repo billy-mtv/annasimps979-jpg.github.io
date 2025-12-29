@@ -11,25 +11,45 @@ The Sage's core virtue is their **Wisdom.**  At character creation, they gain th
 
 ## Advancements by Rank
 
-**Rank 1:** Grimoire. Passive.  In addition to MP, you also have a number of Spell Slots equal to your current tier. When you use a magical attack or a flex power, you may expend a single Spell Slot instead of paying the MP cost.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Grimoire|Passive|N/A|In addition to MP, you also have a number of Spell Slots equal to your current tier. When you use a magical attack or a flex power, you may expend a single Spell Slot instead of paying the MP cost.|
 
 **Rank 2:** You gain +1 Magical Attack.
 
-**Rank 3:** Counterspell. Reaction.  When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and AP cost of using the ability as normal.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Counterspell|Reaction|Variable|When an enemy uses a magical attack, you may expend double the MP cost of the attack in order to prevent the enemy from using it.  They will still expend the MP and AP cost of using the ability as normal.|
 
 **Rank 4:** You gain +1 Magical Attack.
 
-**Rank 5:** Cantrip. Passive.  You may use the Magic Missile ability for free regardless of what job you currently occupy.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Cantrip|Passive|N/A|You may use the Magic Missile ability for free regardless of what job you currently occupy.|
 
 **Rank 6:** You gain +1 Magical Attack.
 
-**Rank 7:** Wizard Duel. Passive.  When you use Counterspell, you may expend Spell Slots to reduce the MP cost of doing so, at a conversion rate of 1 Spell Slot per 5 MP.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Wizard Duel|Passive|N/A|When you use Counterspell, you may expend Spell Slots to reduce the MP cost of doing so, at a conversion rate of 1 Spell Slot per 5 MP.|
 
 **Rank 8:** You gain +1 Magical Attack.
 
 **Rank 9:** You gain +1 Magical Attack.
 
-**Capstone:** Ascension. Self. Cost: 1 Anima, 2 AP.  Your Spell Slots and MP are immediately refilled to full.  For the rest of the battle, your magical attacks only cost 5 MP.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Ascension|Self|1 Anima, 2 AP|Your Spell Slots and MP are immediately refilled to full.  For the rest of the battle, your magical attacks only cost 5 MP.|
 
 ## Talents
 
