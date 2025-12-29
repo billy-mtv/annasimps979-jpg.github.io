@@ -11,25 +11,45 @@ The Thief's core virtue is their **Cunning.**  At character creation, they gain 
 
 ## Advancements by Rank
 
-**Rank 1:** Steal. Melee. Cost: 1 AP.  Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per battle with this ability.
+**Rank 1:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Steal|Melee|1 AP|Select an enemy and roll on their item table.  If you obtain an item from this roll, you may use it immediately without spending any AP or you may put it in your inventory if you have enough Carrying Capacity.  You may only obtain one item per enemy per battle with this ability.|
 
 **Rank 2:** You gain +1 Physical Attack.
 
-**Rank 3:** Hide. Self. Cost: 1 AP.  You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied character remaining on the battlefield, the Hidden status effect is removed.
+**Rank 3:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Hide|Self|1 AP|You apply the Hidden status effect to yourself.  While you are Hidden, you cannot be the target of any single-target enemy abilities.  At the beginning of your next turn, if you act while Hidden, or if you are the only allied character remaining on the battlefield, the Hidden status effect is removed.|
 
 **Rank 4:** You gain +1 Physical Attack.
 
-**Rank 5:** Pickpocket. Reaction.  When an enemy misses you using a physical attack, magical attack, or status-inflicting ability, you may use Steal on them immediately without spending any AP.
+**Rank 5:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Pickpocket|Reaction|N/A|When an enemy misses you using a physical attack, magical attack, or status-inflicting ability, you may use Steal on them immediately without spending any AP.|
 
 **Rank 6:** You gain +1 Physical Attack.
 
-**Rank 7:** Sneak Attack. Passive. If you use a physical attack, magical attack, or status-inflicting ability while Hidden, you may roll the hit die twice and choose the result you prefer.
+**Rank 7:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Sneak Attack|Passive|If you use a physical attack, magical attack, or status-inflicting ability while Hidden, you may roll the hit die twice and choose the result you prefer.|
 
 **Rank 8:** You gain +1 Physical Attack.
 
 **Rank 9:** You gain +1 Physical Attack.
 
-**Capstone:** Assassinate. Melee. Cost: 1 Anima, 2 AP.  Select an enemy and roll a 1d10.  That enemy loses a percentage of their remaining combined HP and Shell equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.
+**Capstone:** Ability.
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Assassinate|Melee|1 Anima, 2 AP|Select an enemy and roll a 1d10.  That enemy loses a percentage of their remaining combined HP and Shell equal to the result on the die multiplied by 10.  Antagonists cannot be reduced below 1 HP by this ability.|
 
 ## Talents
 
