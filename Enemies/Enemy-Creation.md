@@ -20,8 +20,8 @@ Once attribute points have been allocated, the enemy's combat statistics are det
 *  Magical Attack = (Magic)x2.
 *  Physical Defense = (Toughness).
 *  Magical Defense = (Magic).
-*  Evasion = (Cunning)x2.
-*  Resistance = (Toughness)x2.
+*  Evasion = (Cunning).
+*  Resistance = (Toughness).
 *  Physical Accuracy = (Aggression)x2.
 *  Magical Accuracy = (Cunning) + (Magic).
 *  Status Accuracy = (Cunning)x2.
