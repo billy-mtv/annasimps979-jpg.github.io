@@ -6,7 +6,7 @@ Entire adventures or even campaigns in Last Odyssey will often revolve around a 
 Domain: Ancient Ruin.  An underground ruin once home to a lost civilization is now the Domain of the Spider Queen, a Monster whose spawn are the apex predators of its tiny but complex ecosystem.  The Queen herself spins her web throughout the ruin, capturing larger animals and the occasional traveler unwise or unlucky enough to stumble into her Domain.
 
 Form 1- Webmaster.  (Monster 1, Animal, Shadow)
-HP 12/Shell 18, Mana 30, Initiative 8, Physical Attack 4, Magical Attack 4, Physical Defense 2, Magical Defense 2, Evasion 8, Resistance 4, Physical Accuracy 4, Magical Accuracy 8, Status Accuracy 8
+HP 12/Shell 18, Mana 30, Initiative 8, Physical Attack 4, Magical Attack 4, Physical Defense 2, Magical Defense 2, Evasion 4, Resistance 2, Physical Accuracy 4, Magical Accuracy 8, Status Accuracy 8
 Leg Stab.  Melee.  Makes a basic physical attack.
 Magic Spear.  Ranged.  Costs 3 MP.  Makes a magical attack that inflicts colorless magical damage on a  hit.
 Bind.  Ranged.  Costs 7 MP.  Uses a status-inflicting ability that inflicts Petrify on a hit.
@@ -17,7 +17,7 @@ Lay Egg.  Special.  Costs 1 Egg.  The Webmaster lays an egg that has 20 Colorles
 Spun Web.  Passive.  The Webmaster's enemies must spend 2 AP to Move instead of 1.  The Ranger's Forest Walk counteracts this effect.
 
 Form 2- Tarantula.  (Monster 2, Animal, Earth)
-HP 39/Shell 21, Mana 55, Initiative 11, Physical Attack 10, Magical Attack 6, Physical Defense 4, Magical Defense 3, Evasion 4, Resistance 8, Physical Accuracy 10, Magical Accuracy 4, Status Accuracy 4
+HP 39/Shell 21, Mana 55, Initiative 11, Physical Attack 10, Magical Attack 6, Physical Defense 4, Magical Defense 3, Evasion 2, Resistance 4, Physical Accuracy 10, Magical Accuracy 4, Status Accuracy 4
 Dry Bite.  Melee.  Makes a basic physical attack.
 Pounce.  Ranged.  Costs 5 MP.  The Tarantula makes a physical attack that deals colorless physical damage on a hit.
 Poison Bite.  Melee.  Costs 5 MP.  The Tarantula makes a physical attack that deals colorless physical damage on a hit and applies the Toxin status effect.
@@ -30,7 +30,7 @@ Spines.  Passive.  When the Tarantula is hit by a physical attack, the Tarantula
 Ambition: To Kill Every Last Stellish Person Still Breathing.  Eidolon: Hill Giant (Striker, Earth, Body 7, Mind 1, Spirit 1).  Ser Tarbh is a charismatic and boisterous man whose troops are doggedly loyal to him.  Behind the veneer of joy, however, is a deeply traumatized war veteran who has decided to burn his humanity in exchange for revenge against his former enemies, the kingdom of the Stells.
 
 Form 1- War Leader.  (Villain 3, Human, Colorless)
-HP 55/Shell 35, Mana 70, Initiative 16, Physical Attack 10, Magical Attack 4, Physical Defense 6, Magical Defense 2, Evasion 10, Resistance 12, Physical Accuracy 10, Magical Accuracy 10, Status Accuracy 10
+HP 55/Shell 35, Mana 70, Initiative 16, Physical Attack 10, Magical Attack 4, Physical Defense 6, Magical Defense 2, Evasion 5, Resistance 6, Physical Accuracy 10, Magical Accuracy 10, Status Accuracy 10
 Greatsword.  Melee.  Makes a basic physical attack.
 Cleave.  Multi.  Costs 7 MP.  Makes a physical attack against all of the War Leader's enemies in the front row that does colorless physical damage on a hit.
 Challenge.  Ranged.  Confers the Taunted status on one of the War Leader's enemies.
@@ -41,7 +41,7 @@ Lead By Example.  Passive.  While the War Leader is on the battlefield, any alli
 Dragonslayer.  Paradigm Action.  Costs 1 Anima.  The War Leader makes a physical attack that deals 4x physical colorless damage on a hit against enemies with full HP.  If an enemy is not at full HP, the attack deals 2x damage instead.
 
 Form 2- Leshen.  (Villain 4, Demon, Wood)
-HP 68/Shell 47, Mana 115, Initiative 16, Physical Attack 12, Magical Attack 14, Physical Defense 7, Magical Defense 7, Evasion 4, Resistance 14, Physical Accuracy 12, Magical Accuracy 4, Status Accuracy 4
+HP 68/Shell 47, Mana 115, Initiative 16, Physical Attack 12, Magical Attack 14, Physical Defense 7, Magical Defense 7, Evasion 2, Resistance 7, Physical Accuracy 12, Magical Accuracy 4, Status Accuracy 4
 Gore.  Melee.  Makes a basic physical attack.
 Growth Surge.  Multi.  Costs 12 MP.  Makes a physical attack against all of the Leshen's enemies that does physical wood damage on a hit.
 Shrug Off Fatigue.  Self.  Costs 8 MP.  Removes all debuffs from the Leshen.
@@ -51,7 +51,7 @@ Unnatural Resilience.  Passive.  The Leshen counts as having 2x resistance to al
 Comeback.  Paradigm Action.  Costs 1 Anima.  Raises the Leshen's Physical Attack buff to +7 regardless of its current value.
 
 Form 3- Revenant.  (Villain 5, Undead, Ice)
-HP 81/Shell 59, Mana 140, Initiative 20, Physical Attack 14, Magical Attack 16, Physical Defense 8, Magical Defense 8, Evasion 6, Resistance 16, Physical Accuracy 14, Magical Accuracy 6, Status Accuracy 6
+HP 81/Shell 59, Mana 140, Initiative 20, Physical Attack 14, Magical Attack 16, Physical Defense 8, Magical Defense 8, Evasion 3, Resistance 8, Physical Accuracy 14, Magical Accuracy 6, Status Accuracy 6
 Sword Arm.  Melee.  Makes a basic physical attack.
 Icy Lance.  Ranged.  Costs 8 MP.  Makes a physical attack against a single enemy that deals physical Ice damage on a hit.
 Frost Blast.  Ranged.  Costs 7 MP.  Makes a magical attack against a single target that deals magical ice damage that is multiplied by 2 in addition to other modifiers.
@@ -67,7 +67,7 @@ Apocalypse.  Paradigm Action.  Costs 1 Anima.  Makes a magical attack against al
 Domain: Forbidden Laboratory.  A renowned but eccentric scientist, Doctor Strazio discovered the power of Anima by accident while attempting to create a new form of reactor.  Now, he stalks his laboratory, conducting strange and nonsensical experiments that often amount to nothing more than elaborate forms of torture for their subjects
 
 Form 1- Doctor.  (Monster 6, Human, Wind)
-HP 53/Shell 92, Mana 170, Initiative 27, Physical Attack 12, Magical Attack 20, Physical Defense 5, Magical Defense 10, Evasion 18, Resistance 10, Physical Accuracy 12, Magical Accuracy 18, Status Accuracy 18
+HP 53/Shell 92, Mana 170, Initiative 27, Physical Attack 12, Magical Attack 20, Physical Defense 5, Magical Defense 10, Evasion 9, Resistance 5, Physical Accuracy 12, Magical Accuracy 18, Status Accuracy 18
 Scalpel.  Melee.  Makes a basic physical attack.
 Soulrend.  Special.  Costs 10 MP.  Makes a magical attack against a single enemy that does magical wind damage on a hit.  If this attack breaks the target's Shell, the Doctor can use this ability again immediately on another enemy without needing to spend additional AP and MP.
 Treatment.  Multi.  Costs 18 MP.  Removes all status effects and debuffs from the Doctor and all of their allies.
@@ -79,7 +79,7 @@ Target Acquired.  Paradigm Action.  Costs 1 Anima.  All of the Doctor's enemies 
 Second Chance.  Paradigm Action.  Costs 1 Anima.  Heals and revives all of the Doctor's Allies to full HP and removes all of their current status effects and debuffs.
 
 Form 2- Torture Rack.  (Monster 7, Construct, Thunder)
-HP 65/Shell 105, Mana 195, Initiative 31, Physical Attack 14, Magical Attack 22, Physical Defense 6, Magical Defense 11, Evasion 20, Resistance 12, Physical Accuracy 14, Magical Accuracy 20, Status Accuracy 20
+HP 65/Shell 105, Mana 195, Initiative 31, Physical Attack 14, Magical Attack 22, Physical Defense 6, Magical Defense 11, Evasion 10, Resistance 6, Physical Accuracy 14, Magical Accuracy 20, Status Accuracy 20
 Buzzsaw.  Melee.  Makes a basic physical attack.
 Electroshock.  Melee.  Costs 3 MP.  Makes a physical attack against a single enemy that deals physical thunder damage on a hit.
 EM Field.  Multi.  Costs 10 MP.  Makes a physical attack against every enemy in the front row that deals physical thunder damage on a hit.
@@ -93,7 +93,7 @@ Torture.  Paradigm Action.  Costs 1 Anima.  The Torture Rack inflicts 2d8 random
 Assassinate.  Paradigm Action.  Costs 1 Anima.  The Torture rack designates an enemy, and the GM rolls a 1d10.  The target then loses a percentage of their total Health from their combined HP and Shell equal to the result of the roll multiplied by 10.
 
 Form 3 (Growable)- Infernal Engine.  (Monster 8, Dragon, Fire)
-HP 77/Shell 118, Mana 220, Initiative 35, Physical Attack 16, Magical Attack 24, Physical Defense 7, Magical Defense 12, Evasion 22, Resistance 14, Physical Accuracy 16, Magical Accuracy 22, Status Accuracy 22
+HP 77/Shell 118, Mana 220, Initiative 35, Physical Attack 16, Magical Attack 24, Physical Defense 7, Magical Defense 12, Evasion 11, Resistance 7, Physical Accuracy 16, Magical Accuracy 22, Status Accuracy 22
 Cannon.  Melee.  Makes a basic physical attack.
 Crush.  Melee.  Costs 5 MP.  Makes a physical attack against a single target that deals physical colorless damage on a hit that is multiplied by 2 in addition to other modifiers.
 Bake.  Multi.  Costs 15 MP.  Makes a physical attack against all of the Infernal Engine's enemies that deals physical fire damage on a hit.
@@ -109,7 +109,7 @@ Ascension.  Paradigm Action.  Costs 1 Anima.  The Infernal Engine's MP refills t
 Ambition: To Dominate All Sentient Life.  Eidolon: Mindeater (Saboteur, Light Body 5, Mind 15, Spirit 7, Debuffs Magical Attack).  The Overmind is a millennia-old psychic whose original body has been replaced over time with writhing fleshgrafts and horrifying cybernetics that allow it to project its will into the minds of even its most distant subjects.  The weight of so much psychic influence has rendered it quite mad, making it a threat that must be stopped before it destroys the known universe.
 
 Form 1- Savior.  (Villain 9, Angel, Light)
-HP 49/Shell 156, Mana 260, Initiative 39, Physical Attack 10, Magical Attack 32, Physical Defense 5, Magical Defense 16, Evasion 32, Resistance 10, Physical Accuracy 10, Magical Accuracy 32, Status Accuracy 32
+HP 49/Shell 156, Mana 260, Initiative 39, Physical Attack 10, Magical Attack 32, Physical Defense 5, Magical Defense 16, Evasion 16, Resistance 5, Physical Accuracy 10, Magical Accuracy 32, Status Accuracy 32
 Caress.  Melee.  Makes a basic physical attack.
 Spotlight.  Ranged.  Costs 9 MP.  Makes a magical attack against a single enemy that deals magical light damage on a hit that is multiplied by 2 in addition to other modifiers.
 Searing Ray.  Multi.  Costs 15 MP.  Makes a magical attack against every enemy on the battlefield that deals magical light damage on a hit.
@@ -124,7 +124,7 @@ Spin the Bottle.  Paradigm Action.  Costs 1 Anima.  The GM rolls a 1d6 and desig
 Reveal the Light.  Paradigm Action.  Costs 1 Anima.  The Savior inflicts Blind, Slow, and one level of debuff of Magical Defense on the Bonus Tracker on all of its enemies.  This ability cannot be resisted.
 
 Form 2- Unveiled.  (Villain 10, Horror, Water)
-HP 60/Shell 170, Mana 285, Initiative 43, Physical Attack 12, Magical Attack 34, Physical Defense 6, Magical Defense 17, Evasion 34, Resistance 12, Physical Accuracy 12, Magical Accuracy 34, Status Accuracy 34
+HP 60/Shell 170, Mana 285, Initiative 43, Physical Attack 12, Magical Attack 34, Physical Defense 6, Magical Defense 17, Evasion 17, Resistance 6, Physical Accuracy 12, Magical Accuracy 34, Status Accuracy 34
 Tentacle.  Ranged.  Makes a basic physical attack against a single target that can force it to Move on a hit for free.
 Assault.  Multi.  Costs 15 MP.  Makes a physical attack against all of the Unveiled's enemies that deals physical damage of its current elemental type on a hit.
 Degrade.  Multi.  Costs 19 MP.  Inflicts the Vulnerable status effect on all of the Unveiled's enemies that corresponds to its current elemental type.
