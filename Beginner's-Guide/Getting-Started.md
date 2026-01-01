@@ -5,7 +5,7 @@ The only thing you need for an FRP is _other people._  To play Last Odyssey, you
 This section contains guidelines designed to help you get a new campaign started.
 
 ## Materials
-The physical materials required to play a game of Last Odyssey are listed below.
+The materials required to play a game of Last Odyssey are listed below.
 
 *  A combat battlemap
 *  Tokens to represent characters
