@@ -15,7 +15,7 @@ In total, once per tier, a character can take each of the following advancements
 *  Learn a flew power.
 
 ## Advancing Attributes
-When a player chooses to advance one of their character's attributes, they add +1 to either their Body, their Mind, or their Spirit.  The next time they take this improvement during the same tier, they must improve a different attribute.  The maximum value that any of a character's attributes can have is 10.
+When a player chooses to advance one of their character's attributes, they add +1 to either their Body, their Mind, or their Spirit.  The next time they take this improvement during the same tier, they must improve a different attribute.  The maximum value that any of a character's attributes can have is 12.
 
 ## Advancing Jobs
 When a player advances their character's Rank in a job, they are now able to use all of the abilities associated with that Rank or lower while they occupy it.  Players can save up Ranks whenever they take this improvement until they are ready, but they cannot spend them except when they take this improvement again.  Unlocking the capstone ability at the end of a job's ability list counts as advancing by 2 Ranks instead of 1.
