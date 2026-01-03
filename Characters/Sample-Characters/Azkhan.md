@@ -87,6 +87,7 @@
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
 |8|Elemental Leap|Ranged|8 MP, 1 AP|Make a physical attack against a single target whose elemental type is the same as your base elemental type.|
 |9|Elemental Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
+|N/A|Vanguard|Passive|N/A|When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and Physical Attack for theirs.|
 
 ### Caster
 
@@ -115,6 +116,7 @@
 |7|Elemental Chain|Special|10 MP, 1 AP|Make a ranged magical attack against a single enemy whose elemental type is your base elemental type.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
 |8|Magic Storm|Multi|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
 |9|Elemental Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
+|N/A|Siege Engineer|Passive|N/A|When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and Magical Attack for theirs.|
 
 ### Healer
 
@@ -143,6 +145,7 @@
 |7|Raise Dead|Special|15 MP, 1 AP|Revive a single downed target back to half its current maximum HP, rounded down.|
 |8|Multiheal|Multi|15 MP, 1 AP|Heal yourself and all allies for an amount of HP equal to your Magical Attack.|
 |9|Treatment|Ally|18 MP, 1 AP|Remove all status effects from a single target, and reset the Bonus Tracker for all of their statistics back to +0.|
+|N/A|Medical Tent|Passive|N/A|When an ally uses a Healer ability using the AP you granted them with Orders, they may substitute your Magical Attack for theirs.|
 
 ### Defender
 
@@ -171,6 +174,7 @@
 |7|Barrier|Self|9 MP, 1 AP|Inflict the Barred status effect on yourself.  While you are Barred, if you are hit by a magical attack the damage dealt to you is automatically reduced to 0 and the Barred status effect is removed.|
 |8|Reflect|Self|12 MP, 1 AP|Inflict the Reflecting status effect on yourself.  While you are Reflecting, the next time you are hit with a magical attack the attacker takes damage as though they were also a target of the same attack and the Reflecting status is removed.|
 |9|Deathless|Passive|N/A|When you are hit with an attack that would otherwise down you while at anything but 1 HP and 0 Shell, you are instead reduced to 1 HP and 0 Shell.|
+|N/A|Shield Wall|Passive|N/A|When you use the Taunt or Multitaunt abilities, you may direct the target to attack one of your allies instead of you.|
 
 ### Support
 
@@ -199,6 +203,7 @@
 |7|Power Buff (Resistance)|Ally|16 MP, 1 AP|Move the statistic associated with your archetype three steps up the Bonus Tracker for the selected target.|
 |8|Multiprotect (Wind)|Multi|20 MP, 1 AP|Apply the Protected status effect to yourself and all of your allies, which goes away at the beginning of your next turn.  While a character is Protected, they are immune to receiving damage or status effects of your base elemental type.  Characters can be Protected from more than one elemental type at the same time.|
 |9|Multihaste|Multi|25 MP, 1 AP|You and all of your allies receive the Hasted status effect during the Effect Phase of this round.  The effect then lasts for three subsequent rounds.  While the target is Hasted, they have +1 AP to use per round.|
+|N/A|Trenches|Passive|N/A|All of your allies gain the bonus from Standard Bearer regardless of their place in the Initiative Order.  This does not apply if you are downed.|
 
 ### Saboteur
 
