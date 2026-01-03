@@ -79,14 +79,14 @@
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Strike|Melee|3 MP, 1 AP|Make a colorless physical attack that deals 1.5x damage on a hit in addition to other modifiers.|
-|2|Elemental Attack|Melee|3 MP, 1 AP|Make a physical attack whose elemental type is the same as your base elemental type.|
+|2|Wind Attack|Melee|3 MP, 1 AP|Make a physical attack whose elemental type is the same as your base elemental type.|
 |3|Power Attack|Melee|5 MP, 1 AP|Make a colorless physical attack.  On a hit, this attack's damage is multiplied by 2 in addition to other modifiers.|
 |4|Cleave|Multi|7 MP, 1 AP|Make a colorless, melee physical attack against all enemies in the front row.|
 |5|Leaping Strike|Ranged|5 MP, 1 AP|Make a colorless physical attack against a single target.|
-|6|Elemental Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your base elemental type.|
+|6|Wind Cleave|Multi|10 MP, 1 AP|Make a melee physical attack against all enemies in the front row whose elemental type is the same as your base elemental type.|
 |7|Whirlwind|Multi|12 MP, 1 AP|Make a colorless physical attack against all enemies on the battlefield.|
-|8|Elemental Leap|Ranged|8 MP, 1 AP|Make a physical attack against a single target whose elemental type is the same as your base elemental type.|
-|9|Elemental Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
+|8|Wind Leap|Ranged|8 MP, 1 AP|Make a physical attack against a single target whose elemental type is the same as your base elemental type.|
+|9|Wind Whirlwind|Multi|15 MP, 1 AP|Make a physical attack against all enemies on the battlefield whose elemental type is the same as your base elemental type.|
 |N/A|Vanguard|Passive|N/A|When an ally makes a physical attack using the AP you granted them with Orders, they may substitute your Physical Accuracy and Physical Attack for theirs.|
 
 ### Caster
@@ -108,14 +108,14 @@
 |Rank|Name|Type|Cost|Description|
 |:-|:-|:-|:-|:-|
 |1|Magic Missile|Ranged|3 MP, 1 AP|Make a colorless magical attack against a single target.|
-|2|Elemental Bolt|Ranged|5 MP, 1 AP|Make a magical attack against a single target whose elemental type is the same as your base elemental type.|
+|2|Wind Bolt|Ranged|5 MP, 1 AP|Make a magical attack against a single target whose elemental type is the same as your base elemental type.|
 |3|Trained Spellcaster|Passive|N/A|Flex powers that are magical attacks cost 5 MP instead of 10 MP.|
 |4|Magic Chain|Special|8 MP, 1 AP|Make a ranged, colorless magical attack against a single target.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
 |5|Magic Burst|Ranged|7 MP, 1 AP|Make a colorless magical attack against a single target.  On a hit, the attack deals 2x damage in addition to other modifiers.|
-|6|Elemental Burst|Ranged|9 MP, 1 AP|Make a magical attack against a single target whose elemental type is equal to your elemental type.  On a hit, the attack deals 2x damage in addition to other modifiers.|
-|7|Elemental Chain|Special|10 MP, 1 AP|Make a ranged magical attack against a single enemy whose elemental type is your base elemental type.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
+|6|Wind Burst|Ranged|9 MP, 1 AP|Make a magical attack against a single target whose elemental type is equal to your elemental type.  On a hit, the attack deals 2x damage in addition to other modifiers.|
+|7|Wind Chain|Special|10 MP, 1 AP|Make a ranged magical attack against a single enemy whose elemental type is your base elemental type.  If you break the target's Shell, you may use this ability again against another target without spending any MP or AP.|
 |8|Magic Storm|Multi|13 MP, 1 AP|Make a colorless magical attack against all enemies on the battlefield.|
-|9|Elemental Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
+|9|Wind Storm|Multi|15 MP, 1 AP|Make a magical attack against all enemies on the battlefield that has the same elemental type as your base elemental type.|
 |N/A|Siege Engineer|Passive|N/A|When an ally makes a magical attack using the AP you granted them with Orders, they may substitute your Magical Accuracy and Magical Attack for theirs.|
 
 ### Healer
