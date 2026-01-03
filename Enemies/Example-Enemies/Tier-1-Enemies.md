@@ -6,10 +6,17 @@ The police are deployed against protestors, activists, criminals, and anyone els
 In combat, police will swap between rounds where they debuff and rounds where they exert maximum force.  During the first round of battle, they will not attack but instead sit there and either inflict status effects, use buffs and debuffs, or just look menacing.
 
 Cop (Normal 1, Human, Colorless)
-HP 10/Shell 5, Mana 10, Initiative 4, Physical Attack 4, Magical Attack 2, Physical Defense 2, Magical Defense 1, Evasion 1, Resistance 2, Physical Accuracy 4, Magical Accuracy 2, Status Accuracy 2
-Truncheon.  Melee.  The Cop makes a basic physical attack.
-Crowd Control.  Ranged.  Cost: 3 MP, 1 AP.  The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.
-Body Armor.  Passive.  The first time the Cop is hit by a physical attack, they do not take any damage.
+
+|HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|Evasion|Resistance|Physical Accuracy|Magical Accuracy|Status Accuracy|
+|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|10|5|4|10|2|4|2|2|1|1|2|4|2|2|
+
+|Name|Type|Cost|Description|
+|:-|:-|:-|:-|
+|Truncheon|Melee|1 AP|The Cop makes a basic physical attack.|
+|Crowd Control|Ranged|3 MP, 1 AP|The Cop moves a single target's Physical Attack down by one step on the Bonus Tracker.|
+|Body Armor|Passive|N/A|The first time the Cop is hit by a physical attack, they do not take any damage.|
+
 Item Table: Guard, Mundane Colorless Physical Damage, 10 cr.
 
 Hover Drone (Normal 1, Construct, Water)
