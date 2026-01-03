@@ -30,6 +30,7 @@
     - [Support](../Characters/Jobs/Support)
   - [Character Advancement](../Characters/Character-Advancement)
   - [Eidolons](../Characters/Eidolons)
+  - [Sample Characters](../Characters/Sample-Characters/)
 - [**Combat Rules**](../Combat-Rules/Combat)
   - [Starting Battles](../Combat-Rules/Starting-Battles)
   - [The Combat Round](../Combat-Rules/The-Combat-Round)
