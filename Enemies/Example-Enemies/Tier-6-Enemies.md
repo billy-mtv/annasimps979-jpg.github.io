@@ -19,7 +19,7 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |:-|:-|:-|:-|
 |Faerie Fire|Ranged|1 AP, 5 MP|Makes a magical attack that does magical damage of the Wisp's elemental type on a hit.|
 |Curse|Multi|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
-|Magic Ward|1 AP, 7 MP|Applies 16 points of Shell to a single enemy of the Wisp's current elemental type.|
+|Magic Ward|Ally|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
 
 Item Table: Rare Colorless Shell, Rare Colorless Magical Damage, 100 cr.
 
