@@ -7,6 +7,8 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 
 ### Herald (Normal 8, Angel, Light)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |32|38|15|75|3|6|14|6|7|
@@ -15,14 +17,25 @@ Angels will fight fair, but will also fight hard, and to the death.  If they are
 |:-|:-|:-|:-|:-|
 |4|6|6|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
+|:-|:-|:-|:-|
 |Strike|Melee|1 AP|Makes a basic physical attack.|
 |Behold!|Multi|1 AP, 18 MP|Uses a status-inflicting ability on all of the Herald's enemies that inflicts the Blinded status on a hit.|
 |The First Seal|Passive|N/A|When the Herald is downed, all of the Herald's enemies have their Magical Accuracy debuffed by one step on the Bonus Tracker.|
 
-Item Table: Expert Inflict Blind, Expert Restore MP, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Inflict Blind|
+|2|Expert Restore MP|
+|3|1000 cr|
 
 ### Seeker (Normal 8, Angel, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -32,14 +45,25 @@ Item Table: Expert Inflict Blind, Expert Restore MP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |6|4|10|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bow|Melee|1 AP|Makes a basic physical attack.|
 |Arrow of Light|Ranged|1 AP, 8 MP|Makes a physical attack against a single target that deals physical light damage on a hit.|
-|Inscrutable Form.  Passive.  The Seeker does not take double damage from physical or magical attacks depending on whether or not its shell or HP are being damaged.  All other multipliers still apply.
-Item Table: Expert Physical Light Damage, Multiscan, 1000 cr.
+|Inscrutable Form.  Passive.  The Seeker does not take double damage from physical or magical attacks depending on whether or not its shell or HP are being damaged.  All other multipliers still apply.|
+
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Expert Physical Light Damage|
+|2|Multiscan|
+|3|1000 cr|
 
 ### Madonna (Normal 8, Angel, Light)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -49,15 +73,25 @@ Item Table: Expert Physical Light Damage, Multiscan, 1000 cr.
 |:-|:-|:-|:-|:-|
 |6|4|4|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Knit the Body|Multi|1 AP, 15 MP|Heals the Madonna and all of their allies by an amount equal to their Magical Attack.|
 |Knit the Soul|Multi|1 AP, 14 MP|Raises the Shell of the Madonna and their allies by an amount equal to their Magical Attack.|
 |The Third Seal|Passive|N/A|When the Madonna is downed, any of their allies that have already been downed are revived and restored to 1 HP.|
 
-Item Table: Expert Light Shell, Expert Restore HP, 1000 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Expert Light Shell|
+|2|Expert Restore HP|
+|3|1000 cr|
 
 ### Avenger (Elite 8, Angel, Fire)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -67,6 +101,8 @@ Item Table: Expert Light Shell, Expert Restore HP, 1000 cr.
 |:-|:-|:-|:-|:-|
 |5|7|20|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Greatsword|Melee|1 AP|Makes a basic physical attack.|
@@ -75,9 +111,17 @@ Item Table: Expert Light Shell, Expert Restore HP, 1000 cr.
 |Condemn|Ranged|1 AP|Designates one of the Avenger's enemies as Condemned.  When the Avenger or one of their allies uses a physical or magical attack or a status-inflicting ability on a Condemned target, the GM may roll the associated 1d10 twice and choose which result they want.|
 |Final Judgment|Special|2 AP|When the Avenger uses this ability, the GM selects one of their enemies and rolls a 1d10.  If the result is above a 5, the Condemned enemy takes the total amount of damage they have dealt in the battle minus the amount of healing they have received.  It is possible that this result could be negative, in which case they are healed instead.  If the result is a 5 or below, nothing happens.  In either case, however, the Condemned status is removed and cannot be applied to them again for the rest of the battle.|
 
-Item Table: Expert Physical Light Damage, Expert Buff Physical Attack, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Physical Light Damage|
+|2|Expert Buff Physical Attack|
+|3|5000 cr|
 
 ### Protector (Elite 8, Angel, Light)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -87,6 +131,8 @@ Item Table: Expert Physical Light Damage, Expert Buff Physical Attack, 5000 cr.
 |:-|:-|:-|:-|:-|
 |5|10|14|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
@@ -95,7 +141,13 @@ Item Table: Expert Physical Light Damage, Expert Buff Physical Attack, 5000 cr.
 |Retribution|Passive|N/A|When the Protector takes damage from an attack due to one of their allies being Guarded, the Protector automatically uses Hammer against the attacker.|
 |Righteous Guardian|Passive|N/A|When the Protector is hit by a magical attack, the attacker's Magical Attack is reduced by one step on the Bonus Tracker.|
 
-Item Table: Multitaunt, Expert Inflict Blind (Multi), 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Multitaunt|
+|2|Expert Inflict Blind (Multi)|
+|3|5000 cr|
 
 ## Vampires
 There are certain undead who are sentient, and feed off of the life energy of the living.  These undead conglomerate together, and therefore are often classified as being members of the same species.
@@ -103,6 +155,8 @@ There are certain undead who are sentient, and feed off of the life energy of th
 The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  However, Elite vampires are quite intelligent, and their minions will also engage in more complex tactics with them around.
 
 ### Thrall (Normal 8, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -112,15 +166,25 @@ The Thrall, Ghoul, and Spawn are dumb servants who will attack mindlessly.  Howe
 |:-|:-|:-|:-|:-|
 |0|7|16|0|0|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
 |Cannibalize|Special|1 AP|If one of the Thrall's allies has been downed and has not had Cannibalize used on it, the Thrall may use Cannibalize on it to restore all of their HP and MP.  After a downed character has had Cannibalize used on it, it cannot be revived by any effects.|
 |Mindless Servant|Passive|N/A|The Thrall is immune to all debuffs.|
 
-Item Table: Expert Debuff Magical Defense, Cure, 1000 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Expert Debuff Magical Defense|
+|2|Cure|
+|3|1000 cr|
 
 ### Ghoul (Normal 8, Undead, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -130,15 +194,25 @@ Item Table: Expert Debuff Magical Defense, Cure, 1000 cr.
 |:-|:-|:-|:-|:-|
 |7|3|16|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Relentless Attack|Melee|1 AP|Makes two physical attacks that each deal physical colorless damage on a hit that is multiplied by 0.75 in addition to other modifiers.|
 |Curdle Blood|Ranged|1 AP, 10 MP|Reduces the Physical Accuracy of a single target by three steps on the Bonus Tracker.|
 |Bloodthirst|Reaction|N/A|When one of the Ghoul's enemies is downed, the Ghoul can immediately use Relentless Attack on a single enemy within range without spending any AP.  If there are no enemies within range, this effect does not apply.|
 
-Item Table: Expert Debuff Physical Attack, Expert Inflict Toxin, 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Debuff Physical Attack|
+|2|Expert Inflict Toxin|
+|3|1000 cr|
 
 ### Spawn (Normal 8, Undead, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -148,15 +222,25 @@ Item Table: Expert Debuff Physical Attack, Expert Inflict Toxin, 1000 cr.
 |:-|:-|:-|:-|:-|
 |7|3|12|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Dagger|Melee|1 AP|Makes a basic physical attack.|
 |Immature Fangs|Melee|1 AP, 18 MP|Makes a basic physical attack that deals physical shadow damage on a hit and also inflicts the Fatigued status effect on the target.|
 |Entrance|Special|1 AP, 5 MP|Uses a status-inflicting ability that, if it hits, inflicts the Entranced status effect.  Entranced characters cannot act.|
 
-Item Table: Expert Inflict Fatigue, Entrance (Spawn ability), 1000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Inflict Fatigue|
+|2|Entrance (Spawn ability)|
+|3|1000 cr|
 
 ### Elder (Elite 8, Undead, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -166,6 +250,8 @@ Item Table: Expert Inflict Fatigue, Entrance (Spawn ability), 1000 cr.
 |:-|:-|:-|:-|:-|
 |9|7|10|18|18|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Sword|Melee|1 AP|Makes a basic physical attack.|
@@ -174,9 +260,17 @@ Item Table: Expert Inflict Fatigue, Entrance (Spawn ability), 1000 cr.
 |Utter Darkness|Multi|1 AP, 13 MP|Makes a magical attack against all of the Elder's enemies that deals magical shadow damage on a hit.|
 |True Vampire|Passive|N/A|The Elder is immune to all magical damage that it is not weak to due to its elemental type.|
 
-Item Table: Expert Buff Evasion, Expert Inflict Slow, 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Expert Buff Evasion|
+|2|Expert Inflict Slow|
+|3|5000 cr|
 
 ### Wight (Elite 8, Horror, Shadow)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -186,6 +280,8 @@ Item Table: Expert Buff Evasion, Expert Inflict Slow, 5000 cr.
 |:-|:-|:-|:-|:-|
 |9|7|18|18|18|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Savage|Melee|1 AP|The Wight makes two basic physical attacks in a row.|
@@ -194,4 +290,10 @@ Item Table: Expert Buff Evasion, Expert Inflict Slow, 5000 cr.
 |Entrance|Special|1 AP, 5 MP|Uses a status-inflicting ability that, if it hits, inflicts the Entranced status effect.  Entranced characters cannot act.|
 |It Keeps Coming Back|Passive|N/A|When the Wight is downed, the GM should roll a 1d10.  If the roll is a 3 or below, the Wight will be revived at full HP and Shell during the Effect Phase of the same round in which it was downed.|
 
-Item Table: Revive, Expert Restore HP (Multi), 5000 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Revive|
+|2|Expert Restore HP (Multi)|
+|3|5000 cr|
