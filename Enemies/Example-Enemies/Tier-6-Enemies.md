@@ -7,6 +7,8 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 
 ### Wisp (Normal 6, Elemental, Variable)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |7|28|11|80|3|4|20|1|10|
@@ -15,15 +17,25 @@ There is nothing discernible elementals usually "want."  They simply act on inst
 |:-|:-|:-|:-|:-|
 |3|1|4|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Faerie Fire|Ranged|1 AP, 5 MP|Makes a magical attack that does magical damage of the Wisp's elemental type on a hit.|
 |Curse|Multi|1 AP, 18 MP|Attempts to inflict the status associated with the Wisp's element on all enemies on the battlefield.|
 |Magic Ward|Ally|1 AP, 7 MP|Applies 16 points of Shell to a single ally of the Wisp's current elemental type.|
 
-Item Table: Rare Colorless Shell, Rare Colorless Magical Damage, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Colorless Shell|
+|2|Rare Colorless Magical Damage|
+|3|100 cr|
 
 ### Homid (Normal 6, Elemental, Variable)
+
+**Stastistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,6 +45,8 @@ Item Table: Rare Colorless Shell, Rare Colorless Magical Damage, 100 cr.
 |:-|:-|:-|:-|:-|
 |8|4|8|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Strike|Melee|1 AP, 3 MP|The Homid makes an attack that deals damage of its elemental type.|
@@ -40,9 +54,17 @@ Item Table: Rare Colorless Shell, Rare Colorless Magical Damage, 100 cr.
 |Magical Form|Self|1 AP|The Homid becomes immune to physical damage, and all of their attacks deal magical damage.|
 |Vacillation|Passive|N/A|The Homid begins battle with either Physical or Magical Form active, whichever the GM chooses.  If Physical Form is active during the Effect Phase, the Homid will use Magical Form.  If Magical Form is active during the Effect Phase, the Homid will use Physical Form.|
 
-Item Table: Rare Shield, Rare Protect (Homid's element), 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Shield|
+|2|Rare Protect (Homid's element)|
+|3|100 cr|
 
 ### Salamander (Normal 6, Elemental, Variable)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -52,15 +74,25 @@ Item Table: Rare Shield, Rare Protect (Homid's element), 100 cr.
 |:-|:-|:-|:-|:-|
 |3|3|10|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
 |Slime|Ranged|1 AP, 12 MP|Inflicts the Slow status on a single enemy.  Works the same as the Saboteur's Slow ability.|
 |Absorb Element|Passive|N/A|If the Salamander would take damage of its elemental type, it instead gains an amount of HP equal to the damage it would have taken.|
 
-Item Table: Rare Inflict Slow, Rare Restore MP, 100 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Slow|
+|2|Rare Restore MP|
+|3|100 cr|
 
 ### Golem (Elite 6, Elemental, Variable)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -70,6 +102,8 @@ Item Table: Rare Inflict Slow, Rare Restore MP, 100 cr.
 |:-|:-|:-|:-|:-|
 |4|7|10|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Punch|Melee|1 AP|Makes a basic physical attack.|
@@ -78,9 +112,17 @@ Item Table: Rare Inflict Slow, Rare Restore MP, 100 cr.
 |Screen|Ally|1 AP, 9 MP|Confers the Protected status on the Golem or one of its allies.  The next attack of the Golem's elemental type that hits a character that is Protected will have its damage negated.|
 |Conduit|Passive|N/A|If the Golem is hit by a magical attack of its elemental type, the user of the attack will take the same amount of damage the Golem takes.|
 
-Item Table: Protect (Earth), Reflect, 500 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Protect (Earth)|
+|2|Reflect|
+|3|500 cr|
 
 ### Conflagration (Elite 6, Elemental, Variable)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -90,6 +132,8 @@ Item Table: Protect (Earth), Reflect, 500 cr.
 |:-|:-|:-|:-|:-|
 |6|5|6|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Zap|Melee|1 AP|Makes a colorless magical attack against a single target.|
@@ -98,7 +142,13 @@ Item Table: Protect (Earth), Reflect, 500 cr.
 |Chain Spell|Ranged|1 AP, 8 MP|Makes a magical attack against a single target that deals magical damage of the Conflagration's elemental type.  On a hit, the Conflagration makes another attack against another character for free.  Each subsequent attack lets the Conflagration attack another character for free.|
 |Pure Elemental|Passive|N/A|When the Conflagration is reduced to 0 MP, it is automatically downed and cannot be revived.|
 
-Item Table: Use Elemental Chain, Rare Restore Mana, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Use Elemental Chain|
+|2|Rare Restore Mana|
+|3|500 cr|
 
 ## Sahuagin
 Tidewater regions that are not populated by humans or other sentients are usually inhabited by sahuagin, which are half-fish people that have their own strange customs.
@@ -106,6 +156,8 @@ Tidewater regions that are not populated by humans or other sentients are usuall
 Sahuagin are somewhat physically weak, and as a result will focus on wearing their enemies down and frustrating them in the hopes that they will make stupid mistakes.
 
 ### Fisher (Normal 6, Dragon, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -115,15 +167,25 @@ Sahuagin are somewhat physically weak, and as a result will focus on wearing the
 |:-|:-|:-|:-|:-|
 |6|2|10|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Claw|Melee|1 AP|Makes a basic physical attack.|
 |Net|Ranged|1 AP, 8 MP|Works the same as the Saboteur's Slow.|
 |Spear|Ranged|1 AP, 5 MP|Makes a physical attack against a single target that does colorless physical damage on a hit.|
 
-Item Table: Rare Buff Evasion, Inflict Frostbite, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Buff Evasion|
+|2|Inflict Frostbite|
+|3|100 cr|
 
 ### Raider (Normal 6, Dragon, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -133,15 +195,25 @@ Item Table: Rare Buff Evasion, Inflict Frostbite, 100 cr.
 |:-|:-|:-|:-|:-|
 |4|3|12|8|8|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Spear|Melee|1 AP|Makes a basic physical attack.|
 |Waterstrike|Melee|1 AP, 3 MP|Makes a physical attack against a single target that deals physical water damage on a hit.|
 |Expose Weakness|Ranged|1 AP, 8 MP|Makes a status-inflicting ability roll that, on a hit, inflicts the Vulnerable (Water) status.  This works the same as the Saboteur's Vulnerability power.|
 
-Item Table: Use Vulnerable (Water), Rare Debuff Resistance, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Inflict Vulnerable (Water)|
+|2|Rare Debuff Resistance|
+|3|100 cr|
 
 ### Hunter (Normal 6, Dragon, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -151,15 +223,25 @@ Item Table: Use Vulnerable (Water), Rare Debuff Resistance, 100 cr.
 |:-|:-|:-|:-|:-|
 |6|3|6|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Spear|Melee|1 AP|Makes a basic physical attack.|
 |Submerge|Self|1 AP|Works the same as the Thief's Hide ability.|
 |Ambush|Passive|N/A|Works the same as the Thief's Sneak Attack ability.|
 
-Item Table: Rare Inflict Toxin, Rare Inflict Paralyze, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Toxin|
+|2|Rare Inflict Paralyze|
+|3|100 cr|
 
 ### Chieftain (Elite 6, Dragon, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -169,6 +251,8 @@ Item Table: Rare Inflict Toxin, Rare Inflict Paralyze, 100 cr.
 |:-|:-|:-|:-|:-|
 |6|6|14|12|12|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Knife|Melee|1 AP|Makes a basic physical attack.|
@@ -177,9 +261,17 @@ Item Table: Rare Inflict Toxin, Rare Inflict Paralyze, 100 cr.
 |Strategy|Ally|1 AP|Twice per round, the Chieftain can donate an AP to another ally to allow them to act immediately on the Chieftain's turn.|
 |War Leader|Passive|N/A|Any allies of the Chieftain's that act after them in the Initiative Order gain a +1 bonus to all three of their Accuracies.  This does not count as a buff on the Bonus Tracker.|
 
-Item Table: Multihaste, Rare Buff Status Accuracy (Multi), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Multihaste|
+|2|Rare Buff Status Accuracy (Multi)|
+|3|500 cr|
 
 ### Prophet (Elite 6, Dragon, Water)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -189,6 +281,8 @@ Item Table: Multihaste, Rare Buff Status Accuracy (Multi), 500 cr.
 |:-|:-|:-|:-|:-|
 |7|4|8|14|14|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Drown|Ranged|9 MP|Makes a magical attack against a single target that, on a hit, deals magical water damage that is multiplied by 2 in addition to other modifiers.|
@@ -197,4 +291,10 @@ Item Table: Multihaste, Rare Buff Status Accuracy (Multi), 500 cr.
 |Karma|Multi|1 AP, 40 MP|Inflicts the Reflecting status on the Prophet and all of their allies.  The next time they are hit by a magical attack, the damage they take is also automatically dealt to the attacker and the status is removed.|
 |Foretell Doom|Passive|N/A|After the Effect Phase in battle passes three times, the Prophet makes a magical attack against all of its enemies that does not cost any MP.  Every hit enemy takes magical water damage that is multiplied by 3 in addition to other modifiers.|
 
-Item Table: Rare Inflict Frostbitten (Multi), Revive, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Frostbitten (Multi)|
+|2|Revive|
+|3|500 cr|
