@@ -7,6 +7,8 @@ Test subjects without their masters are very much insane.  They will not use any
 
 ### Slime (Normal 5, Horror, Colorless)
 
+**Statistics**
+
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |22|23|11|45|2|6|8|4|4|
@@ -15,15 +17,25 @@ Test subjects without their masters are very much insane.  They will not use any
 |:-|:-|:-|:-|:-|
 |3|4|6|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Pseudopod|Melee|1 AP|Makes a basic physical attack.|
 |Bolt|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that deals magical damage of the Slime's current elemental type on a hit.|
 |Elemental Absorption|Passive|N/A|The Slime's elemental type is the elemental type of the last magical attack, physical attack, or status-inflicting ability that hit it.  This can include colorless.  The change triggers before Divide activates.|
 
-Item Table: Costume Change, Rare Inflict Petrified, 100 cr.
+**Item Table**
+
+|Result|Item|
+|:-|:-|
+|1|Costume Change|
+|2|Rare Inflict Petrified|
+|3|100 cr|
 
 ### Ghoul (Normal 5, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -33,15 +45,25 @@ Item Table: Costume Change, Rare Inflict Petrified, 100 cr.
 |:-|:-|:-|:-|:-|
 |1|2|18|2|2|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
 |Frenzy|Self|1 AP, 12 MP|Hastes the Ghoul as though it had used the Support's Haste spell on itself.|
 |Corpse Rot|Passive|N/A|If the Ghoul does damage to an enemy's HP, they will be Slowed as though they were affected by the Slow ability.|
 
-Item Table: Slow, Rare Restore MP, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Slow|
+|2|Rare Restore MP|
+|3|100 cr|
 
 ### Spitter (Normal 5, Horror, Wind)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -51,15 +73,25 @@ Item Table: Slow, Rare Restore MP, 100 cr.
 |:-|:-|:-|:-|:-|
 |3|2|10|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Tail|Melee|1 AP|Makes a basic physical attack.|
 |Acid Spit|Ranged|1 AP, 5 MP|Makes a magical attack that does magical wood damage and inflicts the Poisoned status effect on a hit.|
 |Amniotic Tank|Passive|N/A|When the Spitter is infected with Poisoned, they do not take damage resulting from it but instead are healed for 2 HP during the Effect Phase of every round.|
 
-Item Table: Rare Inflict Toxin, Rare Cure Toxin, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Toxin|
+|2|Rare Cure Toxin|
+|3|100 cr|
 
 ### Devourer (Elite 5, Horror, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -69,6 +101,8 @@ Item Table: Rare Inflict Toxin, Rare Cure Toxin, 100 cr.
 |:-|:-|:-|:-|:-|
 |2|6|12|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
@@ -77,9 +111,17 @@ Item Table: Rare Inflict Toxin, Rare Cure Toxin, 100 cr.
 |Hedgehog|Self|1 AP, 7 MP|Applies the Countering status to the Devourer.  This functions the same as the Defender's Counter.|
 |Conduit|Self|1 AP, 12 MP|Applies the Reflecting status to the Devourer.  This functions the same as the Defender's Reflect.|
 
-Item Table: Counter, Reflect, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Counter|
+|2|Reflect|
+|3|500 cr|
 
 ### Precog (Elite 5, Horror, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -89,6 +131,8 @@ Item Table: Counter, Reflect, 500 cr.
 |:-|:-|:-|:-|:-|
 |8|1|6|16|16|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Penetrating Stare|Ranged|1 AP, 7 MP|On a hit, inflicts the Paralyzed status on a single target.|
@@ -97,7 +141,13 @@ Item Table: Counter, Reflect, 500 cr.
 |Dream Eater|Ranged|1 AP, 5 MP|Makes a colorless magical attack against a single opponent.  On a hit, restores an amount of MP to the Precog equal to the damage they dealt to their target.|
 |Lobotomy|Ranged|1 AP, 10 MP|Debuffs a single target's Magical Attack by three levels on the Bonus Tracker.|
 
-Item Table: Rare Buff Magical Attack, Rare Magical Colorless Damage (Multi), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Buff Magical Attack|
+|2|Rare Magical Colorless Damage (Multi)|
+|3|500 cr|
 
 ## Royal Militia
 The Diamond Queen usually enforces her will on her subjects via psychological means, but more direct intervention is occasionally needed.  That's where her militia come in.
@@ -105,6 +155,8 @@ The Diamond Queen usually enforces her will on her subjects via psychological me
 Royal Militia are organized, disciplined, and utterly devoted to their task.  They are primarily concerned with survival, as they are skilled at fighting battles of attrition, but only the survival of the whole unit, rather than any one individual.  They will gladly sacrifice themselves to ensure the day is won.
 
 ### Infantry (Normal 5, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -114,15 +166,25 @@ Royal Militia are organized, disciplined, and utterly devoted to their task.  Th
 |:-|:-|:-|:-|:-|
 |3|4|8|6|6|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Slash|Melee|1 AP|Makes a basic physical attack.|
 |Tactics|Ally|1 AP|The Infantry gives 1 AP to another character on the battlefield that said character can use immediately.  The Infantry can do this up to once per turn.|
 |Hold the Line|Passive|N/A|The Infantry cannot be moved away from the front line for any reason.|
 
-Item Table: Rare Restore HP, Buff Physical Defense + Buff Physical Attack, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Restore HP|
+|2|Buff Physical Defense + Buff Physical Attack|
+|3|100 cr|
 
 ### Gunner (Normal 5, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -132,15 +194,25 @@ Item Table: Rare Restore HP, Buff Physical Defense + Buff Physical Attack, 100 c
 |:-|:-|:-|:-|:-|
 |5|2|6|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Saber|Melee|1 AP|Makes a basic physical attack.|
 |Gunpowder|Ranged|1 AP, 5 MP|Makes a magical attack against a single target that deals magical earth damage on a hit.|
 |Shrapnel Bomb|Multi|1 AP, 15 MP|Makes a magical attack against all enemies that deals magical earth damage on a hit.|
 
-Item Table: Rare Magical Metal Damage, Rare Magical Metal Damage (Multi), 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Magical Metal Damage|
+|2|Rare Magical Metal Damage (Multi)|
+|3|100 cr|
 
 ### Shieldbearer (Normal 5, Human, Colorless)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -150,15 +222,25 @@ Item Table: Rare Magical Metal Damage, Rare Magical Metal Damage (Multi), 100 cr
 |:-|:-|:-|:-|:-|
 |2|5|8|4|4|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Hammer|Melee|1 AP|Makes a basic physical attack.|
 |Shields Up|Self|1 AP, 7 MP|Makes the Shieldbearer immune to the damage of the next physical attack that hits them.|
 |Defensive Formation|Multi|1 AP, 10 MP|Until the beginning of its next turn, if any non-Shieldbearer ally of the Shieldbearer's is hit by a physical or magical attack, the Shieldbearer will count as being hit by the attack instead.|
 
-Item Table: Rare Buff Magical Defense (Multi), Shield, 100 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Buff Magical Defense (Multi)|
+|2|Shield|
+|3|100 cr|
 
 ### Paladin (Elite 5, Human, Thunder)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -168,6 +250,8 @@ Item Table: Rare Buff Magical Defense (Multi), Shield, 100 cr.
 |:-|:-|:-|:-|:-|
 |5|5|10|10|10|
 
+**Abilities**
+
 |Name|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Swipe|Melee|1 AP|Makes a basic physical attack.|
@@ -176,9 +260,17 @@ Item Table: Rare Buff Magical Defense (Multi), Shield, 100 cr.
 |Challenge|Ranged|1 AP|Applies the Taunted status to a single one of the Paladin's enemies.|
 |Terrifying Combatant|Passive|The Paladin cannot be Slowed or Taunted, and will ignore the Guarded status effect if applied to any allies.|
 
-Item Table: Rare Physical Thunder Damage, Rare Cure Slow, 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Physical Thunder Damage|
+|2|Rare Cure Slow|
+|3|500 cr|
 
 ### Wyvern (Elite 5, Human, Thunder)
+
+**Statistics**
 
 |HP|Shell|Initiative|Mana|Action Points|Physical Attack|Magical Attack|Physical Defense|Magical Defense|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
@@ -188,6 +280,8 @@ Item Table: Rare Physical Thunder Damage, Rare Cure Slow, 500 cr.
 |:-|:-|:-|:-|:-|
 |5|3|14|10|10|
 
+**Abilities**
+
 |Normal|Type|Cost|Description|
 |:-|:-|:-|:-|
 |Bite|Melee|1 AP|Makes a basic physical attack.|
@@ -196,4 +290,10 @@ Item Table: Rare Physical Thunder Damage, Rare Cure Slow, 500 cr.
 |Windstorm|Multi|1 AP, 10 MP|Makes a physical attack against every enemy on the battlefield that moves them to the back row on a hit.  If they are already in the back row or have the Shielded status, this attack does nothing.|
 |Tough Skin|Passive|N/A|If the Wyvern is hit with an attack that deals less than 5 total damage after modifiers are applied, it takes 0 damage instead.|
 
-Item Table: Rare Inflict Petrify, Rare Magical Thunder Damage (Multi), 500 cr.
+**Item Table** 
+
+|Result|Item|
+|:-|:-|
+|1|Rare Inflict Petrify|
+|2|Rare Magical Thunder Damage (Multi)|
+|3|500 cr|
