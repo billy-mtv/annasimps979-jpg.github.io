@@ -2,9 +2,9 @@
 
 Jungles, the summer months in hotter regions, and the wet season on islands are all represented by the Tropical climate.  Equatorial wetlands tend to also have Tropical climates or similar.
 
-Example natural hazards: thick foliage, a leech-filled swamp, a surging river.
+**Example Natural Hazards:** thick foliage, a leech-filled swamp, a surging river.
 
-Weather Table:
+**Weather Table**
 
 |Result|Weather|
 |:-|:-|
