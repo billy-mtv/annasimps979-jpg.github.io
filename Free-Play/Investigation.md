@@ -19,4 +19,4 @@ Not every question that the players ask will be worthy of an investigation roll.
 *  Questions about Lore, particularly Lore that the source the players are investigating specializes in.
 *  Any other rumors that lead players in the right direction of their current quests.
 
-If players do not have any questions in mind, they can participate in a _<dfn id = "term-directionless-investigation">directionless investigation</dfn>._  If they make a directionless investigation roll, they will learn 1d4 pieces of information of the GM's choice.  Making a directionless investigation also expends the same amount time that an investigation roll related to the same topic would take.
+If players do not have any questions in mind, they can participate in a _<dfn id = "term-directionless-investigation">directionless investigation</dfn>._  If they make a directionless investigation roll, they will learn 1d4 pieces of information of the GM's choice.  Undergoing a directionless investigation also expends the same amount time that an investigation roll related to the same topic would take.
