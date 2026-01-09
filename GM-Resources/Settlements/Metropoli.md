@@ -1,6 +1,6 @@
 # Metropoli
 
-**Population:** 100,000-1m+
+**Population:** 100,000-1m+.
 
 The largest variety of settlement in Last Odyssey campaigns and also the least common by far is the _<dfn id = "term-metropolis">metropolis</dfn>._  To give an idea of how rare these cities are, in the year 1100 CE on Earth there were no cities with a population of greater than 1 million, while the only two cities in the entirety of what we today would consider to be Europe that would count as metropoli under this definition were Constantinople and Cordoba.  Of course, population alone does not make a metropolis, but rather the fact that it is large and storied enough to stand above the other cities in the overworld.  The history of a metropolis will span several millennia, and GMs should represent its scale by including multiple nodes that represent different distinct parts of the city.  It is not a trivial thing to traverse a metropolis, and the navigation difficulty and danger rating of moving between districts will be greater than zero, especially for foreigners.  Not only is the dizzying array of goods and services present in a city present in metropoli, but also many unique ones, including both those tailored to life in the city and those tailored towards the elites that populate it, including everything from local guides to strange machinery to local forms of art.
 
